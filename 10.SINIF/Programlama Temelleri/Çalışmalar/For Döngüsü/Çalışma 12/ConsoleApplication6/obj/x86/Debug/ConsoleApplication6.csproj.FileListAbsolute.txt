@@ -1,0 +1,17 @@
+G:\for\ConsoleApplication6\ConsoleApplication6\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\for\ConsoleApplication6\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe
+G:\for\ConsoleApplication6\ConsoleApplication6\bin\Debug\ConsoleApplication6.pdb
+G:\for\ConsoleApplication6\ConsoleApplication6\obj\x86\Debug\ConsoleApplication6.exe
+G:\for\ConsoleApplication6\ConsoleApplication6\obj\x86\Debug\ConsoleApplication6.pdb
+D:\Programlama Temelleri\Çalışmalar\Çalışma 28\ConsoleApplication6\obj\x86\Debug\ConsoleApplication6.exe
+D:\Programlama Temelleri\Çalışmalar\Çalışma 28\ConsoleApplication6\obj\x86\Debug\ConsoleApplication6.pdb
+D:\Programlama Temelleri\Çalışmalar\Çalışma 28\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe
+D:\Programlama Temelleri\Çalışmalar\Çalışma 28\ConsoleApplication6\bin\Debug\ConsoleApplication6.pdb
+D:\Programlama Temelleri\Çalışmalar\Çalışma 28\ConsoleApplication6\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\AcarZeynep\Desktop\Mustafa\Ders\Programlama Temelleri\Çalışmalar\Çalışma 28\ConsoleApplication6\obj\x86\Debug\ConsoleApplication6.exe
+C:\Users\AcarZeynep\Desktop\Mustafa\Ders\Programlama Temelleri\Çalışmalar\Çalışma 28\ConsoleApplication6\obj\x86\Debug\ConsoleApplication6.pdb
+C:\Users\AcarZeynep\Desktop\Mustafa\Ders\Programlama Temelleri\Çalışmalar\For Döngüsü\Çalışma 12\ConsoleApplication6\obj\x86\Debug\ConsoleApplication6.exe
+C:\Users\AcarZeynep\Desktop\Mustafa\Ders\Programlama Temelleri\Çalışmalar\For Döngüsü\Çalışma 12\ConsoleApplication6\obj\x86\Debug\ConsoleApplication6.pdb
+C:\Users\AcarZeynep\Desktop\Mustafa\Ders\Programlama Temelleri\Çalışmalar\For Döngüsü\Çalışma 12\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe
+C:\Users\AcarZeynep\Desktop\Mustafa\Ders\Programlama Temelleri\Çalışmalar\For Döngüsü\Çalışma 12\ConsoleApplication6\bin\Debug\ConsoleApplication6.pdb
+C:\Users\AcarZeynep\Desktop\Mustafa\Ders\Programlama Temelleri\Çalışmalar\For Döngüsü\Çalışma 12\ConsoleApplication6\obj\x86\Debug\ResolveAssemblyReference.cache

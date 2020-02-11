@@ -1,0 +1,16 @@
+c:\users\lab4\documents\visual studio 2010\Projects\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\lab4\documents\visual studio 2010\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+c:\users\lab4\documents\visual studio 2010\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+c:\users\lab4\documents\visual studio 2010\Projects\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.exe
+c:\users\lab4\documents\visual studio 2010\Projects\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.pdb
+G:\Atölye\Programlama Temelleri\ÇALIŞMALAR\Çalışma 12\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.exe
+G:\Atölye\Programlama Temelleri\ÇALIŞMALAR\Çalışma 12\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.pdb
+F:\Atölye\Programlama Temelleri\Çalışmalar\Çalışma 12\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.exe
+F:\Atölye\Programlama Temelleri\Çalışmalar\Çalışma 12\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.pdb
+F:\Atölye\Programlama Temelleri\Çalışmalar\Çalışma 12\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+F:\Atölye\Programlama Temelleri\Çalışmalar\Çalışma 12\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+F:\Atölye\Programlama Temelleri\Çalışmalar\Çalışma 12\ConsoleApplication2\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Programlama Temelleri\Çalışmalar\Çalışma 12\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.exe
+G:\Programlama Temelleri\Çalışmalar\Çalışma 12\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.pdb
+D:\Programlama Temelleri\Çalışmalar\Çalışma 12\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.exe
+D:\Programlama Temelleri\Çalışmalar\Çalışma 12\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.pdb

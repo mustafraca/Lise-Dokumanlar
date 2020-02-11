@@ -1,0 +1,8 @@
+Mustafa Acar
+WindowText
+Microsoft Sans Serif
+8,25
+Form1
+Control
+349
+206

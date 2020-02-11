@@ -1,0 +1,36 @@
+c:\users\bl2\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\bl2\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\bl2\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bl2\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\bl2\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\bl2\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\bl2\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\bl2\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+c:\users\bl2\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\3)- Personel Ekleme Uygulaması\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\3)- Personel Ekleme Uygulaması\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\3)- Personel Ekleme Uygulaması\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\3)- Personel Ekleme Uygulaması\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\3)- Personel Ekleme Uygulaması\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\3)- Personel Ekleme Uygulaması\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\3)- Personel Ekleme Uygulaması\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\3)- Personel Ekleme Uygulaması\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\3)- Personel Ekleme Uygulaması\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\3)- Personel Ekleme Uygulaması\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\3)- Personel Ekleme Uygulaması\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\3)- Personel Ekleme Uygulaması\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\3)- Personel Ekleme Uygulaması\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\3)- Personel Ekleme Uygulaması\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\3)- Personel Ekleme Uygulaması\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\3)- Personel Ekleme Uygulaması\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\3)- Personel Ekleme Uygulaması\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\3)- Personel Ekleme Uygulaması\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\Okulda Yaptığımız Çalışmalar\3)- Personel Ekleme Uygulaması\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\Okulda Yaptığımız Çalışmalar\3)- Personel Ekleme Uygulaması\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\Okulda Yaptığımız Çalışmalar\3)- Personel Ekleme Uygulaması\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\Okulda Yaptığımız Çalışmalar\3)- Personel Ekleme Uygulaması\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\Okulda Yaptığımız Çalışmalar\3)- Personel Ekleme Uygulaması\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\Okulda Yaptığımız Çalışmalar\3)- Personel Ekleme Uygulaması\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\Okulda Yaptığımız Çalışmalar\3)- Personel Ekleme Uygulaması\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\Okulda Yaptığımız Çalışmalar\3)- Personel Ekleme Uygulaması\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\Okulda Yaptığımız Çalışmalar\3)- Personel Ekleme Uygulaması\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog

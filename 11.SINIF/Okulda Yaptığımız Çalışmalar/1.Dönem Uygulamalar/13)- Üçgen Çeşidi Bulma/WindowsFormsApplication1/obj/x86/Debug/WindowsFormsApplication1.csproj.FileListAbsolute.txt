@@ -1,0 +1,29 @@
+c:\users\bl2\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\bl2\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\bl2\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bl2\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\bl2\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\bl2\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\bl2\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\bl2\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+c:\users\bl2\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+F:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\13)- Üçgen Çeşidi Bulma\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+F:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\13)- Üçgen Çeşidi Bulma\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+F:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\13)- Üçgen Çeşidi Bulma\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\13)- Üçgen Çeşidi Bulma\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\13)- Üçgen Çeşidi Bulma\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\13)- Üçgen Çeşidi Bulma\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+F:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\13)- Üçgen Çeşidi Bulma\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\13)- Üçgen Çeşidi Bulma\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\13)- Üçgen Çeşidi Bulma\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mustafa Acar\Desktop\SAÜ\SATL\11.SINIF\Okulda Yaptığımız Çalışmalar\1.Dönem Uygulamalar\13)- Üçgen Çeşidi Bulma\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Mustafa Acar\Desktop\SAÜ\SATL\11.SINIF\Okulda Yaptığımız Çalışmalar\1.Dönem Uygulamalar\13)- Üçgen Çeşidi Bulma\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Mustafa Acar\Desktop\SAÜ\SATL\11.SINIF\Okulda Yaptığımız Çalışmalar\1.Dönem Uygulamalar\13)- Üçgen Çeşidi Bulma\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\Users\Mustafa Acar\Desktop\SAÜ\SATL\11.SINIF\Okulda Yaptığımız Çalışmalar\1.Dönem Uygulamalar\13)- Üçgen Çeşidi Bulma\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Mustafa Acar\Desktop\SAÜ\SATL\11.SINIF\Okulda Yaptığımız Çalışmalar\1.Dönem Uygulamalar\13)- Üçgen Çeşidi Bulma\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Mustafa Acar\Desktop\SAÜ\SATL\11.SINIF\Okulda Yaptığımız Çalışmalar\1.Dönem Uygulamalar\13)- Üçgen Çeşidi Bulma\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\Mustafa Acar\Desktop\SAÜ\SATL\11.SINIF\Okulda Yaptığımız Çalışmalar\1.Dönem Uygulamalar\13)- Üçgen Çeşidi Bulma\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa Acar\Desktop\SAÜ\SATL\11.SINIF\Okulda Yaptığımız Çalışmalar\1.Dönem Uygulamalar\13)- Üçgen Çeşidi Bulma\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Mustafa Acar\Desktop\SAÜ\SATL\11.SINIF\Okulda Yaptığımız Çalışmalar\1.Dönem Uygulamalar\13)- Üçgen Çeşidi Bulma\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb

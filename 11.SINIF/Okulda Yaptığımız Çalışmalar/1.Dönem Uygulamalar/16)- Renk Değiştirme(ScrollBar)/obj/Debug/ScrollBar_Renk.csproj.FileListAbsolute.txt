@@ -1,0 +1,26 @@
+C:\Users\LAB2_PC\Desktop\ELİFİN KLASÖRÜDÜR\Nesne Tab. Prog. C#.NET\Visual C# net Başlangı Rehberi\ScrollBar_Renk\bin\Debug\ScrollBar_Renk.exe
+C:\Users\LAB2_PC\Desktop\ELİFİN KLASÖRÜDÜR\Nesne Tab. Prog. C#.NET\Visual C# net Başlangı Rehberi\ScrollBar_Renk\bin\Debug\ScrollBar_Renk.pdb
+C:\Users\LAB2_PC\Desktop\ELİFİN KLASÖRÜDÜR\Nesne Tab. Prog. C#.NET\Visual C# net Başlangı Rehberi\ScrollBar_Renk\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LAB2_PC\Desktop\ELİFİN KLASÖRÜDÜR\Nesne Tab. Prog. C#.NET\Visual C# net Başlangı Rehberi\ScrollBar_Renk\obj\Debug\ScrollBar_Renk.Form1.resources
+C:\Users\LAB2_PC\Desktop\ELİFİN KLASÖRÜDÜR\Nesne Tab. Prog. C#.NET\Visual C# net Başlangı Rehberi\ScrollBar_Renk\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\LAB2_PC\Desktop\ELİFİN KLASÖRÜDÜR\Nesne Tab. Prog. C#.NET\Visual C# net Başlangı Rehberi\ScrollBar_Renk\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\LAB2_PC\Desktop\ELİFİN KLASÖRÜDÜR\Nesne Tab. Prog. C#.NET\Visual C# net Başlangı Rehberi\ScrollBar_Renk\obj\Debug\ScrollBar_Renk.exe
+C:\Users\LAB2_PC\Desktop\ELİFİN KLASÖRÜDÜR\Nesne Tab. Prog. C#.NET\Visual C# net Başlangı Rehberi\ScrollBar_Renk\obj\Debug\ScrollBar_Renk.pdb
+E:\ScrollBar_Renk\obj\Debug\ScrollBar_Renk.exe
+E:\ScrollBar_Renk\obj\Debug\ScrollBar_Renk.pdb
+C:\Users\BL2\Desktop\ScrollBar_Renk\obj\Debug\ScrollBar_Renk.exe
+C:\Users\BL2\Desktop\ScrollBar_Renk\obj\Debug\ScrollBar_Renk.pdb
+F:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\16)-  Renk Değiştirme(ScrollBar)\bin\Debug\ScrollBar_Renk.exe.config
+F:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\16)-  Renk Değiştirme(ScrollBar)\obj\Debug\ScrollBar_Renk.exe
+F:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\16)-  Renk Değiştirme(ScrollBar)\obj\Debug\ScrollBar_Renk.pdb
+F:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\16)-  Renk Değiştirme(ScrollBar)\bin\Debug\ScrollBar_Renk.exe
+F:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\16)-  Renk Değiştirme(ScrollBar)\bin\Debug\ScrollBar_Renk.pdb
+F:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\16)-  Renk Değiştirme(ScrollBar)\obj\Debug\ResolveAssemblyReference.cache
+F:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\16)-  Renk Değiştirme(ScrollBar)\obj\Debug\ScrollBar_Renk.Form1.resources
+F:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\16)-  Renk Değiştirme(ScrollBar)\obj\Debug\GenerateResource-ResGen.read.1.tlog
+F:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\16)-  Renk Değiştirme(ScrollBar)\obj\Debug\GenerateResource.read.1.tlog
+F:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\16)-  Renk Değiştirme(ScrollBar)\obj\Debug\GenerateResource-ResGen.write.1.tlog
+F:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\16)-  Renk Değiştirme(ScrollBar)\obj\Debug\GenerateResource.write.1.tlog
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\Okulda Yaptığımız Çalışmalar\16)- Renk Değiştirme(ScrollBar)\bin\Debug\ScrollBar_Renk.exe.config
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\Okulda Yaptığımız Çalışmalar\16)- Renk Değiştirme(ScrollBar)\obj\Debug\ScrollBar_Renk.exe
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\Okulda Yaptığımız Çalışmalar\16)- Renk Değiştirme(ScrollBar)\obj\Debug\ScrollBar_Renk.pdb

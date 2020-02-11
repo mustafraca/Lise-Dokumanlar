@@ -1,0 +1,13 @@
+c:\users\bl2\documents\visual studio 2010\Projects\Dizi3\Dizi3\bin\Debug\Dizi3.exe
+c:\users\bl2\documents\visual studio 2010\Projects\Dizi3\Dizi3\bin\Debug\Dizi3.pdb
+c:\users\bl2\documents\visual studio 2010\Projects\Dizi3\Dizi3\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bl2\documents\visual studio 2010\Projects\Dizi3\Dizi3\obj\x86\Debug\Dizi3.Form1.resources
+c:\users\bl2\documents\visual studio 2010\Projects\Dizi3\Dizi3\obj\x86\Debug\Dizi3.Properties.Resources.resources
+c:\users\bl2\documents\visual studio 2010\Projects\Dizi3\Dizi3\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\bl2\documents\visual studio 2010\Projects\Dizi3\Dizi3\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\bl2\documents\visual studio 2010\Projects\Dizi3\Dizi3\obj\x86\Debug\Dizi3.exe
+c:\users\bl2\documents\visual studio 2010\Projects\Dizi3\Dizi3\obj\x86\Debug\Dizi3.pdb
+C:\Users\BL2\Desktop\Dizi3\Dizi3\obj\x86\Debug\Dizi3.exe
+C:\Users\BL2\Desktop\Dizi3\Dizi3\obj\x86\Debug\Dizi3.pdb
+E:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\2.Dönem Uygulamalar\10)- Dizi3\Dizi3\obj\x86\Debug\Dizi3.exe
+E:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\2.Dönem Uygulamalar\10)- Dizi3\Dizi3\obj\x86\Debug\Dizi3.pdb

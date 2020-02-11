@@ -1,0 +1,10 @@
+c:\users\lab3\documents\visual studio 2010\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+c:\users\lab3\documents\visual studio 2010\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+c:\users\lab3\documents\visual studio 2010\Projects\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\lab3\documents\visual studio 2010\Projects\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.exe
+c:\users\lab3\documents\visual studio 2010\Projects\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.pdb
+D:\Programlama Temelleri\Çalışmalar\Çalışma 4\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.exe
+D:\Programlama Temelleri\Çalışmalar\Çalışma 4\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.pdb
+D:\Programlama Temelleri\Çalışmalar\Çalışma 4\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+D:\Programlama Temelleri\Çalışmalar\Çalışma 4\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+D:\Programlama Temelleri\Çalışmalar\Çalışma 4\ConsoleApplication2\obj\x86\Debug\ResolveAssemblyReference.cache

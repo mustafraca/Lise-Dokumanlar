@@ -1,0 +1,12 @@
+C:\Users\LAB3\Desktop\erhantüzüklü402\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\LAB3\Desktop\erhantüzüklü402\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\LAB3\Desktop\erhantüzüklü402\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\LAB3\Desktop\erhantüzüklü402\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.exe
+C:\Users\LAB3\Desktop\erhantüzüklü402\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.pdb
+C:\Users\LAB3\Desktop\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.exe
+C:\Users\LAB3\Desktop\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.pdb
+D:\Programlama Temelleri\Çalışmalar\Çalışma 24\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.exe
+D:\Programlama Temelleri\Çalışmalar\Çalışma 24\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.pdb
+D:\Programlama Temelleri\Çalışmalar\Çalışma 24\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+D:\Programlama Temelleri\Çalışmalar\Çalışma 24\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+D:\Programlama Temelleri\Çalışmalar\Çalışma 24\ConsoleApplication2\obj\x86\Debug\ResolveAssemblyReference.cache

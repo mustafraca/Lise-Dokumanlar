@@ -1,0 +1,26 @@
+c:\users\lab3\documents\visual studio 2010\Projects\ConsoleApplication49\ConsoleApplication49\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\lab3\documents\visual studio 2010\Projects\ConsoleApplication49\ConsoleApplication49\bin\Debug\ConsoleApplication49.exe
+c:\users\lab3\documents\visual studio 2010\Projects\ConsoleApplication49\ConsoleApplication49\bin\Debug\ConsoleApplication49.pdb
+c:\users\lab3\documents\visual studio 2010\Projects\ConsoleApplication49\ConsoleApplication49\obj\x86\Debug\ConsoleApplication49.exe
+c:\users\lab3\documents\visual studio 2010\Projects\ConsoleApplication49\ConsoleApplication49\obj\x86\Debug\ConsoleApplication49.pdb
+C:\Users\LAB3\Desktop\ConsoleApplication49\ConsoleApplication49\obj\x86\Debug\ConsoleApplication49.exe
+C:\Users\LAB3\Desktop\ConsoleApplication49\ConsoleApplication49\bin\Debug\ConsoleApplication49.exe
+C:\Users\LAB3\Desktop\ConsoleApplication49\ConsoleApplication49\bin\Debug\ConsoleApplication49.pdb
+C:\Users\LAB3\Desktop\ConsoleApplication49\ConsoleApplication49\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\LAB3\Desktop\ConsoleApplication49\ConsoleApplication49\obj\x86\Debug\ConsoleApplication49.pdb
+G:\Atölye\Programlama Temelleri\Çalışmalar\Çalışma 15\ConsoleApplication49\obj\x86\Debug\ConsoleApplication49.exe
+G:\Atölye\Programlama Temelleri\Çalışmalar\Çalışma 15\ConsoleApplication49\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Programlama Temelleri\Çalışmalar\Çalışma 15\ConsoleApplication49\obj\x86\Debug\ConsoleApplication49.exe
+D:\Programlama Temelleri\Çalışmalar\Çalışma 15\ConsoleApplication49\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Programlama Temelleri\Çalışmalar\Çalışma 15\ConsoleApplication49\bin\Debug\ConsoleApplication49.exe
+D:\Programlama Temelleri\Çalışmalar\Çalışma 15\ConsoleApplication49\bin\Debug\ConsoleApplication49.pdb
+D:\Programlama Temelleri\Çalışmalar\Çalışma 15\ConsoleApplication49\obj\x86\Debug\ConsoleApplication49.pdb
+G:\Programlama Temelleri\Çalışmalar\Çalışma 15\ConsoleApplication49\obj\x86\Debug\ConsoleApplication49.exe
+G:\Programlama Temelleri\Çalışmalar\Çalışma 15\ConsoleApplication49\obj\x86\Debug\ConsoleApplication49.pdb
+G:\Programlama Temelleri\Çalışmalar\Çalışma 15\ConsoleApplication49\bin\Debug\ConsoleApplication49.exe
+G:\Programlama Temelleri\Çalışmalar\Çalışma 15\ConsoleApplication49\bin\Debug\ConsoleApplication49.pdb
+G:\Programlama Temelleri\Çalışmalar\Çalışma 15\ConsoleApplication49\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Programlama Temelleri\Çalışmalar\Switch - Case Çalışmaları\Çalışma 5\ConsoleApplication49\obj\x86\Debug\ConsoleApplication49.exe
+D:\Programlama Temelleri\Çalışmalar\Switch - Case Çalışmaları\Çalışma 5\ConsoleApplication49\obj\x86\Debug\ConsoleApplication49.pdb
+D:\Mustafa\Okul Dosyaları\Programlama Temelleri\Çalışmalar\Switch - Case Çalışmaları\Çalışma 5\ConsoleApplication49\obj\x86\Debug\ConsoleApplication49.exe
+D:\Mustafa\Okul Dosyaları\Programlama Temelleri\Çalışmalar\Switch - Case Çalışmaları\Çalışma 5\ConsoleApplication49\obj\x86\Debug\ConsoleApplication49.pdb

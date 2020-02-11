@@ -1,0 +1,18 @@
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\Okulda Yaptığımız Çalışmalar\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\Okulda Yaptığımız Çalışmalar\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\Okulda Yaptığımız Çalışmalar\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\Okulda Yaptığımız Çalışmalar\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.SuperLig.resources
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\Okulda Yaptığımız Çalışmalar\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\Okulda Yaptığımız Çalışmalar\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\Okulda Yaptığımız Çalışmalar\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\Okulda Yaptığımız Çalışmalar\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\Okulda Yaptığımız Çalışmalar\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\Okulda Yaptığımız Çalışmalar\10)- Futbol Lig Fikstürü\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\Okulda Yaptığımız Çalışmalar\10)- Futbol Lig Fikstürü\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\Okulda Yaptığımız Çalışmalar\10)- Futbol Lig Fikstürü\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\Okulda Yaptığımız Çalışmalar\10)- Futbol Lig Fikstürü\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\Okulda Yaptığımız Çalışmalar\10)- Futbol Lig Fikstürü\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\Okulda Yaptığımız Çalışmalar\10)- Futbol Lig Fikstürü\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.SuperLig.resources
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\Okulda Yaptığımız Çalışmalar\10)- Futbol Lig Fikstürü\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\Okulda Yaptığımız Çalışmalar\10)- Futbol Lig Fikstürü\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\Okulda Yaptığımız Çalışmalar\10)- Futbol Lig Fikstürü\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog

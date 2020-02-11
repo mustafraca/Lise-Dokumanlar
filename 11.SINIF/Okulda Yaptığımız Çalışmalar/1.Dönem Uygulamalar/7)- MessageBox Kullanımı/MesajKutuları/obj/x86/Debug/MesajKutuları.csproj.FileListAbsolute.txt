@@ -1,0 +1,36 @@
+c:\users\bl2\documents\visual studio 2010\Projects\MesajKutuları\MesajKutuları\bin\Debug\MesajKutuları.exe
+c:\users\bl2\documents\visual studio 2010\Projects\MesajKutuları\MesajKutuları\bin\Debug\MesajKutuları.pdb
+c:\users\bl2\documents\visual studio 2010\Projects\MesajKutuları\MesajKutuları\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bl2\documents\visual studio 2010\Projects\MesajKutuları\MesajKutuları\obj\x86\Debug\MesajKutuları.Form1.resources
+c:\users\bl2\documents\visual studio 2010\Projects\MesajKutuları\MesajKutuları\obj\x86\Debug\MesajKutuları.Properties.Resources.resources
+c:\users\bl2\documents\visual studio 2010\Projects\MesajKutuları\MesajKutuları\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\bl2\documents\visual studio 2010\Projects\MesajKutuları\MesajKutuları\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\bl2\documents\visual studio 2010\Projects\MesajKutuları\MesajKutuları\obj\x86\Debug\MesajKutuları.exe
+c:\users\bl2\documents\visual studio 2010\Projects\MesajKutuları\MesajKutuları\obj\x86\Debug\MesajKutuları.pdb
+F:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\7)- MesajKutuları\MesajKutuları\obj\x86\Debug\MesajKutuları.exe
+F:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\7)- MesajKutuları\MesajKutuları\obj\x86\Debug\MesajKutuları.pdb
+F:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\7)- MesajKutuları\MesajKutuları\bin\Debug\MesajKutuları.exe
+F:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\7)- MesajKutuları\MesajKutuları\bin\Debug\MesajKutuları.pdb
+F:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\7)- MesajKutuları\MesajKutuları\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\7)- MesajKutuları\MesajKutuları\obj\x86\Debug\MesajKutuları.Form1.resources
+F:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\7)- MesajKutuları\MesajKutuları\obj\x86\Debug\MesajKutuları.Properties.Resources.resources
+F:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\7)- MesajKutuları\MesajKutuları\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\7)- MesajKutuları\MesajKutuları\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\7)- MessageBox Kullanımı\MesajKutuları\obj\x86\Debug\MesajKutuları.exe
+F:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\7)- MessageBox Kullanımı\MesajKutuları\obj\x86\Debug\MesajKutuları.pdb
+F:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\7)- MessageBox Kullanımı\MesajKutuları\bin\Debug\MesajKutuları.exe
+F:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\7)- MessageBox Kullanımı\MesajKutuları\bin\Debug\MesajKutuları.pdb
+F:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\7)- MessageBox Kullanımı\MesajKutuları\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\7)- MessageBox Kullanımı\MesajKutuları\obj\x86\Debug\MesajKutuları.Form1.resources
+F:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\7)- MessageBox Kullanımı\MesajKutuları\obj\x86\Debug\MesajKutuları.Properties.Resources.resources
+F:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\7)- MessageBox Kullanımı\MesajKutuları\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\7)- MessageBox Kullanımı\MesajKutuları\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\Okulda Yaptığımız Çalışmalar\7)- MessageBox Kullanımı\MesajKutuları\obj\x86\Debug\MesajKutuları.exe
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\Okulda Yaptığımız Çalışmalar\7)- MessageBox Kullanımı\MesajKutuları\obj\x86\Debug\MesajKutuları.pdb
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\Okulda Yaptığımız Çalışmalar\7)- MessageBox Kullanımı\MesajKutuları\bin\Debug\MesajKutuları.exe
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\Okulda Yaptığımız Çalışmalar\7)- MessageBox Kullanımı\MesajKutuları\bin\Debug\MesajKutuları.pdb
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\Okulda Yaptığımız Çalışmalar\7)- MessageBox Kullanımı\MesajKutuları\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\Okulda Yaptığımız Çalışmalar\7)- MessageBox Kullanımı\MesajKutuları\obj\x86\Debug\MesajKutuları.Form1.resources
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\Okulda Yaptığımız Çalışmalar\7)- MessageBox Kullanımı\MesajKutuları\obj\x86\Debug\MesajKutuları.Properties.Resources.resources
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\Okulda Yaptığımız Çalışmalar\7)- MessageBox Kullanımı\MesajKutuları\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\Okulda Yaptığımız Çalışmalar\7)- MessageBox Kullanımı\MesajKutuları\obj\x86\Debug\GenerateResource.write.1.tlog

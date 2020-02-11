@@ -1,0 +1,7 @@
+D:\Programlama Temelleri\Çalışmalar\Diziler\Çalışma 3\Çalışma 3\bin\Debug\Çalışma 3.exe
+D:\Programlama Temelleri\Çalışmalar\Diziler\Çalışma 3\Çalışma 3\bin\Debug\Çalışma 3.pdb
+D:\Programlama Temelleri\Çalışmalar\Diziler\Çalışma 3\Çalışma 3\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Programlama Temelleri\Çalışmalar\Diziler\Çalışma 3\Çalışma 3\obj\x86\Debug\Çalışma 3.exe
+D:\Programlama Temelleri\Çalışmalar\Diziler\Çalışma 3\Çalışma 3\obj\x86\Debug\Çalışma 3.pdb
+C:\Users\AcarZeynep\Desktop\Mustafa\Ders\Programlama Temelleri\Çalışmalar\Diziler\Çalışma 3\Çalışma 3\obj\x86\Debug\Çalışma 3.exe
+C:\Users\AcarZeynep\Desktop\Mustafa\Ders\Programlama Temelleri\Çalışmalar\Diziler\Çalışma 3\Çalışma 3\obj\x86\Debug\Çalışma 3.pdb

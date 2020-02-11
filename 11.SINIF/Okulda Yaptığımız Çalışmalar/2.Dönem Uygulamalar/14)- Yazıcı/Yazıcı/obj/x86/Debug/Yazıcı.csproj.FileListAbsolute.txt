@@ -1,0 +1,26 @@
+E:\Yazıcı\Yazıcı\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Yazıcı\Yazıcı\obj\x86\Debug\Yazıcı.Form1.resources
+E:\Yazıcı\Yazıcı\obj\x86\Debug\Yazıcı.Properties.Resources.resources
+E:\Yazıcı\Yazıcı\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Yazıcı\Yazıcı\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Yazıcı\Yazıcı\bin\Debug\Yazıcı.exe
+E:\Yazıcı\Yazıcı\bin\Debug\Yazıcı.pdb
+E:\Yazıcı\Yazıcı\obj\x86\Debug\Yazıcı.exe
+E:\Yazıcı\Yazıcı\obj\x86\Debug\Yazıcı.pdb
+E:\Mustafa\Okul Dosyaları\11.Sınıf\Okulda Yaptığımız Çalışmalar\2.Dönem Uygulamalar\14)- Yazıcı\Yazıcı\obj\x86\Debug\Yazıcı.exe
+E:\Mustafa\Okul Dosyaları\11.Sınıf\Okulda Yaptığımız Çalışmalar\2.Dönem Uygulamalar\14)- Yazıcı\Yazıcı\obj\x86\Debug\Yazıcı.pdb
+E:\Mustafa\Okul Dosyaları\11.Sınıf\Okulda Yaptığımız Çalışmalar\2.Dönem Uygulamalar\14)- Yazıcı\Yazıcı\bin\Debug\Yazıcı.exe
+E:\Mustafa\Okul Dosyaları\11.Sınıf\Okulda Yaptığımız Çalışmalar\2.Dönem Uygulamalar\14)- Yazıcı\Yazıcı\bin\Debug\Yazıcı.pdb
+E:\Mustafa\Okul Dosyaları\11.Sınıf\Okulda Yaptığımız Çalışmalar\2.Dönem Uygulamalar\14)- Yazıcı\Yazıcı\obj\x86\Debug\Yazıcı.csprojResolveAssemblyReference.cache
+E:\Mustafa\Okul Dosyaları\11.Sınıf\Okulda Yaptığımız Çalışmalar\2.Dönem Uygulamalar\14)- Yazıcı\Yazıcı\obj\x86\Debug\Yazıcı.Form1.resources
+E:\Mustafa\Okul Dosyaları\11.Sınıf\Okulda Yaptığımız Çalışmalar\2.Dönem Uygulamalar\14)- Yazıcı\Yazıcı\obj\x86\Debug\Yazıcı.Properties.Resources.resources
+E:\Mustafa\Okul Dosyaları\11.Sınıf\Okulda Yaptığımız Çalışmalar\2.Dönem Uygulamalar\14)- Yazıcı\Yazıcı\obj\x86\Debug\Yazıcı.csproj.GenerateResource.Cache
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\11.Sınıf\Okulda Yaptığımız Çalışmalar\2.Dönem Uygulamalar\14)- Yazıcı\Yazıcı\bin\Debug\Yazıcı.exe
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\11.Sınıf\Okulda Yaptığımız Çalışmalar\2.Dönem Uygulamalar\14)- Yazıcı\Yazıcı\bin\Debug\Yazıcı.pdb
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\11.Sınıf\Okulda Yaptığımız Çalışmalar\2.Dönem Uygulamalar\14)- Yazıcı\Yazıcı\obj\x86\Debug\Yazıcı.csprojResolveAssemblyReference.cache
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\11.Sınıf\Okulda Yaptığımız Çalışmalar\2.Dönem Uygulamalar\14)- Yazıcı\Yazıcı\obj\x86\Debug\Yazıcı.Form1.resources
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\11.Sınıf\Okulda Yaptığımız Çalışmalar\2.Dönem Uygulamalar\14)- Yazıcı\Yazıcı\obj\x86\Debug\Yazıcı.Properties.Resources.resources
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\11.Sınıf\Okulda Yaptığımız Çalışmalar\2.Dönem Uygulamalar\14)- Yazıcı\Yazıcı\obj\x86\Debug\Yazıcı.csproj.GenerateResource.Cache
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\11.Sınıf\Okulda Yaptığımız Çalışmalar\2.Dönem Uygulamalar\14)- Yazıcı\Yazıcı\obj\x86\Debug\Yazıcı.csproj.CoreCompileInputs.cache
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\11.Sınıf\Okulda Yaptığımız Çalışmalar\2.Dönem Uygulamalar\14)- Yazıcı\Yazıcı\obj\x86\Debug\Yazıcı.exe
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\11.Sınıf\Okulda Yaptığımız Çalışmalar\2.Dönem Uygulamalar\14)- Yazıcı\Yazıcı\obj\x86\Debug\Yazıcı.pdb

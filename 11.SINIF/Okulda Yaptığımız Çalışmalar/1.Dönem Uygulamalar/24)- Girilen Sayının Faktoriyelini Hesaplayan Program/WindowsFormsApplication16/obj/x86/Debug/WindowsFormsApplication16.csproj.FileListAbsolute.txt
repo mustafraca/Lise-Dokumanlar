@@ -1,0 +1,20 @@
+c:\documents and settings\türkmen\belgelerim\visual studio 2010\Projects\WindowsFormsApplication16\WindowsFormsApplication16\bin\Debug\WindowsFormsApplication16.exe
+c:\documents and settings\türkmen\belgelerim\visual studio 2010\Projects\WindowsFormsApplication16\WindowsFormsApplication16\bin\Debug\WindowsFormsApplication16.pdb
+c:\documents and settings\türkmen\belgelerim\visual studio 2010\Projects\WindowsFormsApplication16\WindowsFormsApplication16\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\türkmen\belgelerim\visual studio 2010\Projects\WindowsFormsApplication16\WindowsFormsApplication16\obj\x86\Debug\WindowsFormsApplication16.Form1.resources
+c:\documents and settings\türkmen\belgelerim\visual studio 2010\Projects\WindowsFormsApplication16\WindowsFormsApplication16\obj\x86\Debug\WindowsFormsApplication16.Properties.Resources.resources
+c:\documents and settings\türkmen\belgelerim\visual studio 2010\Projects\WindowsFormsApplication16\WindowsFormsApplication16\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\türkmen\belgelerim\visual studio 2010\Projects\WindowsFormsApplication16\WindowsFormsApplication16\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\türkmen\belgelerim\visual studio 2010\Projects\WindowsFormsApplication16\WindowsFormsApplication16\obj\x86\Debug\WindowsFormsApplication16.exe
+c:\documents and settings\türkmen\belgelerim\visual studio 2010\Projects\WindowsFormsApplication16\WindowsFormsApplication16\obj\x86\Debug\WindowsFormsApplication16.pdb
+C:\Users\MustafaAcar\Desktop\WindowsFormsApplication16\WindowsFormsApplication16\obj\x86\Debug\WindowsFormsApplication16.exe
+C:\Users\MustafaAcar\Desktop\WindowsFormsApplication16\WindowsFormsApplication16\obj\x86\Debug\WindowsFormsApplication16.pdb
+C:\Users\MustafaAcar\Desktop\WindowsFormsApplication16\WindowsFormsApplication16\bin\Debug\WindowsFormsApplication16.exe
+C:\Users\MustafaAcar\Desktop\WindowsFormsApplication16\WindowsFormsApplication16\bin\Debug\WindowsFormsApplication16.pdb
+C:\Users\MustafaAcar\Desktop\WindowsFormsApplication16\WindowsFormsApplication16\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MustafaAcar\Desktop\WindowsFormsApplication16\WindowsFormsApplication16\obj\x86\Debug\WindowsFormsApplication16.Form1.resources
+C:\Users\MustafaAcar\Desktop\WindowsFormsApplication16\WindowsFormsApplication16\obj\x86\Debug\WindowsFormsApplication16.Properties.Resources.resources
+C:\Users\MustafaAcar\Desktop\WindowsFormsApplication16\WindowsFormsApplication16\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\MustafaAcar\Desktop\WindowsFormsApplication16\WindowsFormsApplication16\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\24)- Girilen Sayının Faktoriyelini Hesaplayan Program\WindowsFormsApplication16\obj\x86\Debug\WindowsFormsApplication16.exe
+K:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\24)- Girilen Sayının Faktoriyelini Hesaplayan Program\WindowsFormsApplication16\obj\x86\Debug\WindowsFormsApplication16.pdb

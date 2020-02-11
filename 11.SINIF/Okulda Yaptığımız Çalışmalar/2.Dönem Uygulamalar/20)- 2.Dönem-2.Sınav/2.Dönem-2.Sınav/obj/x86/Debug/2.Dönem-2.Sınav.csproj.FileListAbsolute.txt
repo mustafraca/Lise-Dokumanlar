@@ -1,0 +1,11 @@
+C:\Users\Acarr\Desktop\2.Dönem-2.Sınav\2.Dönem-2.Sınav\bin\Debug\2.Dönem-2.Sınav.exe
+C:\Users\Acarr\Desktop\2.Dönem-2.Sınav\2.Dönem-2.Sınav\bin\Debug\2.Dönem-2.Sınav.pdb
+C:\Users\Acarr\Desktop\2.Dönem-2.Sınav\2.Dönem-2.Sınav\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Acarr\Desktop\2.Dönem-2.Sınav\2.Dönem-2.Sınav\obj\x86\Debug\_2.Dönem_2.Sınav.Form1.resources
+C:\Users\Acarr\Desktop\2.Dönem-2.Sınav\2.Dönem-2.Sınav\obj\x86\Debug\_2.Dönem_2.Sınav.Form2.resources
+C:\Users\Acarr\Desktop\2.Dönem-2.Sınav\2.Dönem-2.Sınav\obj\x86\Debug\_2.Dönem_2.Sınav.Form3.resources
+C:\Users\Acarr\Desktop\2.Dönem-2.Sınav\2.Dönem-2.Sınav\obj\x86\Debug\_2.Dönem_2.Sınav.Properties.Resources.resources
+C:\Users\Acarr\Desktop\2.Dönem-2.Sınav\2.Dönem-2.Sınav\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Acarr\Desktop\2.Dönem-2.Sınav\2.Dönem-2.Sınav\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Acarr\Desktop\2.Dönem-2.Sınav\2.Dönem-2.Sınav\obj\x86\Debug\2.Dönem-2.Sınav.exe
+C:\Users\Acarr\Desktop\2.Dönem-2.Sınav\2.Dönem-2.Sınav\obj\x86\Debug\2.Dönem-2.Sınav.pdb

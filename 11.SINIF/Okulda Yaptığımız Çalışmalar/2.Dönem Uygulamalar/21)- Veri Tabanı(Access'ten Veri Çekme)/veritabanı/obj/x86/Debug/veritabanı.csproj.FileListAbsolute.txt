@@ -1,0 +1,55 @@
+c:\users\bl2\documents\visual studio 2010\Projects\veritabanı\veritabanı\bin\Debug\Kitaplar.accdb
+c:\users\bl2\documents\visual studio 2010\Projects\veritabanı\veritabanı\bin\Debug\veritabanı.exe.config
+c:\users\bl2\documents\visual studio 2010\Projects\veritabanı\veritabanı\bin\Debug\veritabanı.exe
+c:\users\bl2\documents\visual studio 2010\Projects\veritabanı\veritabanı\bin\Debug\veritabanı.pdb
+c:\users\bl2\documents\visual studio 2010\Projects\veritabanı\veritabanı\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bl2\documents\visual studio 2010\Projects\veritabanı\veritabanı\obj\x86\Debug\veritabanı.Form1.resources
+c:\users\bl2\documents\visual studio 2010\Projects\veritabanı\veritabanı\obj\x86\Debug\veritabanı.Properties.Resources.resources
+c:\users\bl2\documents\visual studio 2010\Projects\veritabanı\veritabanı\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\bl2\documents\visual studio 2010\Projects\veritabanı\veritabanı\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\bl2\documents\visual studio 2010\Projects\veritabanı\veritabanı\obj\x86\Debug\veritabanı.exe
+c:\users\bl2\documents\visual studio 2010\Projects\veritabanı\veritabanı\obj\x86\Debug\veritabanı.pdb
+E:\Access\1-)Kitaplar\veritabanı\veritabanı\bin\Debug\veritabanı.exe.config
+E:\Access\1-)Kitaplar\veritabanı\veritabanı\obj\x86\Debug\veritabanı.exe
+E:\Access\1-)Kitaplar\veritabanı\veritabanı\obj\x86\Debug\veritabanı.pdb
+E:\Access\1-)Kitaplar\veritabanı\veritabanı\bin\Debug\Kitaplar.accdb
+E:\Access\1-)Kitaplar\veritabanı\veritabanı\bin\Debug\veritabanı.exe
+E:\Access\1-)Kitaplar\veritabanı\veritabanı\bin\Debug\veritabanı.pdb
+E:\Access\1-)Kitaplar\veritabanı\veritabanı\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Access\1-)Kitaplar\veritabanı\veritabanı\obj\x86\Debug\veritabanı.Form1.resources
+E:\Access\1-)Kitaplar\veritabanı\veritabanı\obj\x86\Debug\veritabanı.Properties.Resources.resources
+E:\Access\1-)Kitaplar\veritabanı\veritabanı\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Access\1-)Kitaplar\veritabanı\veritabanı\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Access\1-)Kitaplar\veritabanı\veritabanı\bin\Debug\veritabanı.exe.config
+G:\Access\1-)Kitaplar\veritabanı\veritabanı\obj\x86\Debug\veritabanı.exe
+G:\Access\1-)Kitaplar\veritabanı\veritabanı\obj\x86\Debug\veritabanı.pdb
+G:\Access\1-)Kitaplar\veritabanı\veritabanı\bin\Debug\Kitaplar.accdb
+G:\Access\1-)Kitaplar\veritabanı\veritabanı\bin\Debug\veritabanı.exe
+G:\Access\1-)Kitaplar\veritabanı\veritabanı\bin\Debug\veritabanı.pdb
+G:\Access\1-)Kitaplar\veritabanı\veritabanı\obj\x86\Debug\veritabanı.Form1.resources
+G:\Access\1-)Kitaplar\veritabanı\veritabanı\obj\x86\Debug\veritabanı.Properties.Resources.resources
+G:\Access\1-)Kitaplar\veritabanı\veritabanı\obj\x86\Debug\veritabanı.csproj.GenerateResource.Cache
+C:\Users\BL2\Desktop\1-)Kitaplar\veritabanı\veritabanı\bin\Debug\veritabanı.exe.config
+C:\Users\BL2\Desktop\1-)Kitaplar\veritabanı\veritabanı\obj\x86\Debug\veritabanı.exe
+C:\Users\BL2\Desktop\1-)Kitaplar\veritabanı\veritabanı\obj\x86\Debug\veritabanı.pdb
+C:\Users\BL2\Desktop\1-)Kitaplar\veritabanı\veritabanı\bin\Debug\Kitaplar.accdb
+C:\Users\BL2\Desktop\1-)Kitaplar\veritabanı\veritabanı\bin\Debug\veritabanı.exe
+C:\Users\BL2\Desktop\1-)Kitaplar\veritabanı\veritabanı\bin\Debug\veritabanı.pdb
+C:\Users\BL2\Desktop\1-)Kitaplar\veritabanı\veritabanı\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\BL2\Desktop\1-)Kitaplar\veritabanı\veritabanı\obj\x86\Debug\veritabanı.Form1.resources
+C:\Users\BL2\Desktop\1-)Kitaplar\veritabanı\veritabanı\obj\x86\Debug\veritabanı.Properties.Resources.resources
+C:\Users\BL2\Desktop\1-)Kitaplar\veritabanı\veritabanı\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\BL2\Desktop\1-)Kitaplar\veritabanı\veritabanı\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\21)- Veri Tabanı(Access'ten Veri Çekme)\veritabanı\bin\Debug\veritabanı.exe.config
+E:\21)- Veri Tabanı(Access'ten Veri Çekme)\veritabanı\obj\x86\Debug\veritabanı.exe
+E:\21)- Veri Tabanı(Access'ten Veri Çekme)\veritabanı\obj\x86\Debug\veritabanı.pdb
+E:\21)- Veri Tabanı(Access'ten Veri Çekme)\veritabanı\bin\Debug\Kitaplar.accdb
+E:\21)- Veri Tabanı(Access'ten Veri Çekme)\veritabanı\bin\Debug\veritabanı.exe
+E:\21)- Veri Tabanı(Access'ten Veri Çekme)\veritabanı\bin\Debug\veritabanı.pdb
+E:\21)- Veri Tabanı(Access'ten Veri Çekme)\veritabanı\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\21)- Veri Tabanı(Access'ten Veri Çekme)\veritabanı\obj\x86\Debug\veritabanı.Form1.resources
+E:\21)- Veri Tabanı(Access'ten Veri Çekme)\veritabanı\obj\x86\Debug\veritabanı.Form2.resources
+E:\21)- Veri Tabanı(Access'ten Veri Çekme)\veritabanı\obj\x86\Debug\veritabanı.Properties.Resources.resources
+E:\21)- Veri Tabanı(Access'ten Veri Çekme)\veritabanı\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\21)- Veri Tabanı(Access'ten Veri Çekme)\veritabanı\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Okul Dosyaları\Veri Tabanı\Okulda Yaptığımız Çalışmalar\2.Dönem Uygulamalar\21)- Veri Tabanı(Access'ten Veri Çekme)\veritabanı\bin\Debug\veritabanı.exe.config

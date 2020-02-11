@@ -1,0 +1,18 @@
+c:\users\mustafa acar\documents\visual studio 2010\Projects\AsciiKod\AsciiKod\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\mustafa acar\documents\visual studio 2010\Projects\AsciiKod\AsciiKod\obj\x86\Debug\AsciiKod.Form1.resources
+c:\users\mustafa acar\documents\visual studio 2010\Projects\AsciiKod\AsciiKod\obj\x86\Debug\AsciiKod.Properties.Resources.resources
+c:\users\mustafa acar\documents\visual studio 2010\Projects\AsciiKod\AsciiKod\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\mustafa acar\documents\visual studio 2010\Projects\AsciiKod\AsciiKod\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\mustafa acar\documents\visual studio 2010\Projects\AsciiKod\AsciiKod\bin\Debug\AsciiKod.exe
+c:\users\mustafa acar\documents\visual studio 2010\Projects\AsciiKod\AsciiKod\bin\Debug\AsciiKod.pdb
+c:\users\mustafa acar\documents\visual studio 2010\Projects\AsciiKod\AsciiKod\obj\x86\Debug\AsciiKod.exe
+c:\users\mustafa acar\documents\visual studio 2010\Projects\AsciiKod\AsciiKod\obj\x86\Debug\AsciiKod.pdb
+C:\Users\Mustafa Acar\Desktop\AsciiKod\AsciiKod\obj\x86\Debug\AsciiKod.exe
+C:\Users\Mustafa Acar\Desktop\AsciiKod\AsciiKod\obj\x86\Debug\AsciiKod.pdb
+C:\Users\ACAR\Desktop\Yeni klasör\Okul Dosyaları\11.Sınıf\Okulda Yaptığımız Çalışmalar\1.Dönem Uygulamalar\27)- Klavyeden Girilen Sayının Karışılığı Olan Ascii Kodu Bulan Program\AsciiKod\obj\x86\Debug\AsciiKod.exe
+C:\Users\ACAR\Desktop\Yeni klasör\Okul Dosyaları\11.Sınıf\Okulda Yaptığımız Çalışmalar\1.Dönem Uygulamalar\27)- Klavyeden Girilen Sayının Karışılığı Olan Ascii Kodu Bulan Program\AsciiKod\obj\x86\Debug\AsciiKod.pdb
+C:\Users\ACAR\Desktop\Yeni klasör\Okul Dosyaları\11.Sınıf\Okulda Yaptığımız Çalışmalar\1.Dönem Uygulamalar\27)- Klavyeden Girilen Sayının Karışılığı Olan Ascii Kodu Bulan Program\AsciiKod\bin\Debug\AsciiKod.exe
+C:\Users\ACAR\Desktop\Yeni klasör\Okul Dosyaları\11.Sınıf\Okulda Yaptığımız Çalışmalar\1.Dönem Uygulamalar\27)- Klavyeden Girilen Sayının Karışılığı Olan Ascii Kodu Bulan Program\AsciiKod\bin\Debug\AsciiKod.pdb
+C:\Users\ACAR\Desktop\Yeni klasör\Okul Dosyaları\11.Sınıf\Okulda Yaptığımız Çalışmalar\1.Dönem Uygulamalar\27)- Klavyeden Girilen Sayının Karışılığı Olan Ascii Kodu Bulan Program\AsciiKod\obj\x86\Debug\AsciiKod.Form1.resources
+C:\Users\ACAR\Desktop\Yeni klasör\Okul Dosyaları\11.Sınıf\Okulda Yaptığımız Çalışmalar\1.Dönem Uygulamalar\27)- Klavyeden Girilen Sayının Karışılığı Olan Ascii Kodu Bulan Program\AsciiKod\obj\x86\Debug\AsciiKod.Properties.Resources.resources
+C:\Users\ACAR\Desktop\Yeni klasör\Okul Dosyaları\11.Sınıf\Okulda Yaptığımız Çalışmalar\1.Dönem Uygulamalar\27)- Klavyeden Girilen Sayının Karışılığı Olan Ascii Kodu Bulan Program\AsciiKod\obj\x86\Debug\AsciiKod.csproj.GenerateResource.Cache

@@ -1,0 +1,9 @@
+C:\Users\BL2\Desktop\Diziler\Diziler\bin\Debug\Diziler.exe
+C:\Users\BL2\Desktop\Diziler\Diziler\bin\Debug\Diziler.pdb
+C:\Users\BL2\Desktop\Diziler\Diziler\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\BL2\Desktop\Diziler\Diziler\obj\x86\Debug\Diziler.Form1.resources
+C:\Users\BL2\Desktop\Diziler\Diziler\obj\x86\Debug\Diziler.Properties.Resources.resources
+C:\Users\BL2\Desktop\Diziler\Diziler\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\BL2\Desktop\Diziler\Diziler\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\BL2\Desktop\Diziler\Diziler\obj\x86\Debug\Diziler.exe
+C:\Users\BL2\Desktop\Diziler\Diziler\obj\x86\Debug\Diziler.pdb

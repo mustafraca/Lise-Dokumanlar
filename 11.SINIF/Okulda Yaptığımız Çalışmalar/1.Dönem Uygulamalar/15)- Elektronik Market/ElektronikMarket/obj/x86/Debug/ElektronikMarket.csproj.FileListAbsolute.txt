@@ -1,0 +1,27 @@
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\Okulda Yaptığımız Çalışmalar\15)- ElektronikMarket\ElektronikMarket\bin\Debug\ElektronikMarket.exe
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\Okulda Yaptığımız Çalışmalar\15)- ElektronikMarket\ElektronikMarket\bin\Debug\ElektronikMarket.pdb
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\Okulda Yaptığımız Çalışmalar\15)- ElektronikMarket\ElektronikMarket\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\Okulda Yaptığımız Çalışmalar\15)- ElektronikMarket\ElektronikMarket\obj\x86\Debug\ElektronikMarket.Form1.resources
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\Okulda Yaptığımız Çalışmalar\15)- ElektronikMarket\ElektronikMarket\obj\x86\Debug\ElektronikMarket.Properties.Resources.resources
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\Okulda Yaptığımız Çalışmalar\15)- ElektronikMarket\ElektronikMarket\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\Okulda Yaptığımız Çalışmalar\15)- ElektronikMarket\ElektronikMarket\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\Okulda Yaptığımız Çalışmalar\15)- ElektronikMarket\ElektronikMarket\obj\x86\Debug\ElektronikMarket.exe
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\Okulda Yaptığımız Çalışmalar\15)- ElektronikMarket\ElektronikMarket\obj\x86\Debug\ElektronikMarket.pdb
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\Okulda Yaptığımız Çalışmalar\15)- Elektronik Market\ElektronikMarket\bin\Debug\ElektronikMarket.exe
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\Okulda Yaptığımız Çalışmalar\15)- Elektronik Market\ElektronikMarket\bin\Debug\ElektronikMarket.pdb
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\Okulda Yaptığımız Çalışmalar\15)- Elektronik Market\ElektronikMarket\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\Okulda Yaptığımız Çalışmalar\15)- Elektronik Market\ElektronikMarket\obj\x86\Debug\ElektronikMarket.Form1.resources
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\Okulda Yaptığımız Çalışmalar\15)- Elektronik Market\ElektronikMarket\obj\x86\Debug\ElektronikMarket.Properties.Resources.resources
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\Okulda Yaptığımız Çalışmalar\15)- Elektronik Market\ElektronikMarket\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\Okulda Yaptığımız Çalışmalar\15)- Elektronik Market\ElektronikMarket\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\Okulda Yaptığımız Çalışmalar\15)- Elektronik Market\ElektronikMarket\obj\x86\Debug\ElektronikMarket.exe
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\Okulda Yaptığımız Çalışmalar\15)- Elektronik Market\ElektronikMarket\obj\x86\Debug\ElektronikMarket.pdb
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\11.Sınıf\Okulda Yaptığımız Çalışmalar\1.Dönem Uygulamalar\15)- Elektronik Market\ElektronikMarket\bin\Debug\ElektronikMarket.exe
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\11.Sınıf\Okulda Yaptığımız Çalışmalar\1.Dönem Uygulamalar\15)- Elektronik Market\ElektronikMarket\bin\Debug\ElektronikMarket.pdb
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\11.Sınıf\Okulda Yaptığımız Çalışmalar\1.Dönem Uygulamalar\15)- Elektronik Market\ElektronikMarket\obj\x86\Debug\ElektronikMarket.csprojResolveAssemblyReference.cache
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\11.Sınıf\Okulda Yaptığımız Çalışmalar\1.Dönem Uygulamalar\15)- Elektronik Market\ElektronikMarket\obj\x86\Debug\ElektronikMarket.Form1.resources
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\11.Sınıf\Okulda Yaptığımız Çalışmalar\1.Dönem Uygulamalar\15)- Elektronik Market\ElektronikMarket\obj\x86\Debug\ElektronikMarket.Properties.Resources.resources
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\11.Sınıf\Okulda Yaptığımız Çalışmalar\1.Dönem Uygulamalar\15)- Elektronik Market\ElektronikMarket\obj\x86\Debug\ElektronikMarket.csproj.GenerateResource.cache
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\11.Sınıf\Okulda Yaptığımız Çalışmalar\1.Dönem Uygulamalar\15)- Elektronik Market\ElektronikMarket\obj\x86\Debug\ElektronikMarket.csproj.CoreCompileInputs.cache
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\11.Sınıf\Okulda Yaptığımız Çalışmalar\1.Dönem Uygulamalar\15)- Elektronik Market\ElektronikMarket\obj\x86\Debug\ElektronikMarket.exe
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\11.Sınıf\Okulda Yaptığımız Çalışmalar\1.Dönem Uygulamalar\15)- Elektronik Market\ElektronikMarket\obj\x86\Debug\ElektronikMarket.pdb

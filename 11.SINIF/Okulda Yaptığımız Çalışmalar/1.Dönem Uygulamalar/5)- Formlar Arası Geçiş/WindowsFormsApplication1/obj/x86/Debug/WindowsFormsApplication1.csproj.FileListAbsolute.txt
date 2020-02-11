@@ -1,0 +1,12 @@
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\Okulda Yaptığımız Çalışmalar\5)- Formlar Arası Geçiş\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\Okulda Yaptığımız Çalışmalar\5)- Formlar Arası Geçiş\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\Okulda Yaptığımız Çalışmalar\5)- Formlar Arası Geçiş\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\Okulda Yaptığımız Çalışmalar\5)- Formlar Arası Geçiş\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\Okulda Yaptığımız Çalışmalar\5)- Formlar Arası Geçiş\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\Okulda Yaptığımız Çalışmalar\5)- Formlar Arası Geçiş\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\Okulda Yaptığımız Çalışmalar\5)- Formlar Arası Geçiş\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form4.resources
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\Okulda Yaptığımız Çalışmalar\5)- Formlar Arası Geçiş\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\Okulda Yaptığımız Çalışmalar\5)- Formlar Arası Geçiş\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\Okulda Yaptığımız Çalışmalar\5)- Formlar Arası Geçiş\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\Okulda Yaptığımız Çalışmalar\5)- Formlar Arası Geçiş\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\Okulda Yaptığımız Çalışmalar\5)- Formlar Arası Geçiş\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb

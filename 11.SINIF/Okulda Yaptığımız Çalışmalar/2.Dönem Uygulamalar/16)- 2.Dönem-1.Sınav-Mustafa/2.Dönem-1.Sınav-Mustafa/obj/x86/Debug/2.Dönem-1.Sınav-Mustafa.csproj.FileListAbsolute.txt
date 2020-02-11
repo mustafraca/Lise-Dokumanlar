@@ -1,0 +1,12 @@
+C:\Users\Mustafa\Desktop\2.Dönem-1.Sınav-Mustafa\2.Dönem-1.Sınav-Mustafa\bin\Debug\2.Dönem-1.Sınav-Mustafa.exe
+C:\Users\Mustafa\Desktop\2.Dönem-1.Sınav-Mustafa\2.Dönem-1.Sınav-Mustafa\bin\Debug\2.Dönem-1.Sınav-Mustafa.pdb
+C:\Users\Mustafa\Desktop\2.Dönem-1.Sınav-Mustafa\2.Dönem-1.Sınav-Mustafa\obj\x86\Debug\_2.Dönem_1.Sınav_Mustafa.Form1.resources
+C:\Users\Mustafa\Desktop\2.Dönem-1.Sınav-Mustafa\2.Dönem-1.Sınav-Mustafa\obj\x86\Debug\_2.Dönem_1.Sınav_Mustafa.Properties.Resources.resources
+C:\Users\Mustafa\Desktop\2.Dönem-1.Sınav-Mustafa\2.Dönem-1.Sınav-Mustafa\obj\x86\Debug\2.Dönem-1.Sınav-Mustafa.csproj.GenerateResource.Cache
+C:\Users\Mustafa\Desktop\2.Dönem-1.Sınav-Mustafa\2.Dönem-1.Sınav-Mustafa\obj\x86\Debug\2.Dönem-1.Sınav-Mustafa.exe
+C:\Users\Mustafa\Desktop\2.Dönem-1.Sınav-Mustafa\2.Dönem-1.Sınav-Mustafa\obj\x86\Debug\2.Dönem-1.Sınav-Mustafa.pdb
+C:\Users\Mustafa\Desktop\2.Dönem-1.Sınav-Mustafa\2.Dönem-1.Sınav-Mustafa\obj\x86\Debug\_2.Dönem_1.Sınav_Mustafa.Form2.resources
+C:\Users\Mustafa\Desktop\2.Dönem-1.Sınav-Mustafa\2.Dönem-1.Sınav-Mustafa\obj\x86\Debug\_2.Dönem_1.Sınav_Mustafa.Form3.resources
+C:\Users\Mustafa\Desktop\2.Dönem-1.Sınav-Mustafa\2.Dönem-1.Sınav-Mustafa\obj\x86\Debug\2.Dönem-1.Sınav-Mustafa.csprojResolveAssemblyReference.cache
+E:\Mustafa\Okul Dosyaları\11.Sınıf\Okulda Yaptığımız Çalışmalar\2.Dönem Uygulamalar\16)- 2.Dönem-1.Sınav-Mustafa\2.Dönem-1.Sınav-Mustafa\obj\x86\Debug\2.Dönem-1.Sınav-Mustafa.exe
+E:\Mustafa\Okul Dosyaları\11.Sınıf\Okulda Yaptığımız Çalışmalar\2.Dönem Uygulamalar\16)- 2.Dönem-1.Sınav-Mustafa\2.Dönem-1.Sınav-Mustafa\obj\x86\Debug\2.Dönem-1.Sınav-Mustafa.pdb

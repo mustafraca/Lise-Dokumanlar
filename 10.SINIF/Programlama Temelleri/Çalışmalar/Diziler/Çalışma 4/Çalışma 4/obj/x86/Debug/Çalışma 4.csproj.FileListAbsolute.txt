@@ -1,0 +1,12 @@
+D:\Programlama Temelleri\Çalışmalar\Diziler\Çalışma 4\Çalışma 4\bin\Debug\Çalışma 4.exe
+D:\Programlama Temelleri\Çalışmalar\Diziler\Çalışma 4\Çalışma 4\bin\Debug\Çalışma 4.pdb
+D:\Programlama Temelleri\Çalışmalar\Diziler\Çalışma 4\Çalışma 4\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Programlama Temelleri\Çalışmalar\Diziler\Çalışma 4\Çalışma 4\obj\x86\Debug\Çalışma 4.exe
+D:\Programlama Temelleri\Çalışmalar\Diziler\Çalışma 4\Çalışma 4\obj\x86\Debug\Çalışma 4.pdb
+C:\Users\AcarZeynep\Desktop\Mustafa\Ders\Programlama Temelleri\Çalışmalar\Diziler\Çalışma 4\Çalışma 4\obj\x86\Debug\Çalışma 4.exe
+C:\Users\AcarZeynep\Desktop\Mustafa\Ders\Programlama Temelleri\Çalışmalar\Diziler\Çalışma 4\Çalışma 4\obj\x86\Debug\Çalışma 4.pdb
+F:\Dersler\Programlama Temelleri\Çalışmalar\Diziler\Çalışma 4\Çalışma 4\obj\x86\Debug\Çalışma 4.exe
+F:\Dersler\Programlama Temelleri\Çalışmalar\Diziler\Çalışma 4\Çalışma 4\obj\x86\Debug\Çalışma 4.pdb
+F:\Dersler\Programlama Temelleri\Çalışmalar\Diziler\Çalışma 4\Çalışma 4\bin\Debug\Çalışma 4.exe
+F:\Dersler\Programlama Temelleri\Çalışmalar\Diziler\Çalışma 4\Çalışma 4\bin\Debug\Çalışma 4.pdb
+F:\Dersler\Programlama Temelleri\Çalışmalar\Diziler\Çalışma 4\Çalışma 4\obj\x86\Debug\ResolveAssemblyReference.cache

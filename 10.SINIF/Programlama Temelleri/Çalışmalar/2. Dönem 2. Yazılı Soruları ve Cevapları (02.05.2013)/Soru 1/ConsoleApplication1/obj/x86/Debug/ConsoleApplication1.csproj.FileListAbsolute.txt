@@ -1,0 +1,26 @@
+c:\users\acarzeynep\documents\visual studio 2010\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\acarzeynep\documents\visual studio 2010\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\acarzeynep\documents\visual studio 2010\Projects\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\acarzeynep\documents\visual studio 2010\Projects\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+c:\users\acarzeynep\documents\visual studio 2010\Projects\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\AcarZeynep\Desktop\Mustafa\Ders\Programlama Temelleri\Çalışmalar\2. Dönem 2. Yazılı Soruları ve Cevapları (02.05.2013)\Soru 1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\AcarZeynep\Desktop\Mustafa\Ders\Programlama Temelleri\Çalışmalar\2. Dönem 2. Yazılı Soruları ve Cevapları (02.05.2013)\Soru 1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\AcarZeynep\Desktop\Mustafa\Ders\Programlama Temelleri\Çalışmalar\2. Dönem 2. Yazılı Soruları ve Cevapları (02.05.2013)\Soru 1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\AcarZeynep\Desktop\Mustafa\Ders\Programlama Temelleri\Çalışmalar\2. Dönem 2. Yazılı Soruları ve Cevapları (02.05.2013)\Soru 1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\AcarZeynep\Desktop\Mustafa\Ders\Programlama Temelleri\Çalışmalar\2. Dönem 2. Yazılı Soruları ve Cevapları (02.05.2013)\Soru 1\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Dersler\Programlama Temelleri\Çalışmalar\2. Dönem 2. Yazılı Soruları ve Cevapları (02.05.2013)\Soru 1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+F:\Dersler\Programlama Temelleri\Çalışmalar\2. Dönem 2. Yazılı Soruları ve Cevapları (02.05.2013)\Soru 1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+F:\Dersler\Programlama Temelleri\Çalışmalar\2. Dönem 2. Yazılı Soruları ve Cevapları (02.05.2013)\Soru 1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+F:\Dersler\Programlama Temelleri\Çalışmalar\2. Dönem 2. Yazılı Soruları ve Cevapları (02.05.2013)\Soru 1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+F:\Dersler\Programlama Temelleri\Çalışmalar\2. Dönem 2. Yazılı Soruları ve Cevapları (02.05.2013)\Soru 1\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Dersler\Programlama Temelleri\Çalışmalar\2. Dönem 2. Yazılı Soruları ve Cevapları (02.05.2013)\Soru 1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+D:\Dersler\Programlama Temelleri\Çalışmalar\2. Dönem 2. Yazılı Soruları ve Cevapları (02.05.2013)\Soru 1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+D:\Dersler\Programlama Temelleri\Çalışmalar\2. Dönem 2. Yazılı Soruları ve Cevapları (02.05.2013)\Soru 1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Dersler\Programlama Temelleri\Çalışmalar\2. Dönem 2. Yazılı Soruları ve Cevapları (02.05.2013)\Soru 1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Dersler\Programlama Temelleri\Çalışmalar\2. Dönem 2. Yazılı Soruları ve Cevapları (02.05.2013)\Soru 1\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\10.Sınıf\Programlama Temelleri\Çalışmalar\2. Dönem 2. Yazılı Soruları ve Cevapları (02.05.2013)\Soru 1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\10.Sınıf\Programlama Temelleri\Çalışmalar\2. Dönem 2. Yazılı Soruları ve Cevapları (02.05.2013)\Soru 1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\10.Sınıf\Programlama Temelleri\Çalışmalar\2. Dönem 2. Yazılı Soruları ve Cevapları (02.05.2013)\Soru 1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\10.Sınıf\Programlama Temelleri\Çalışmalar\2. Dönem 2. Yazılı Soruları ve Cevapları (02.05.2013)\Soru 1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\10.Sınıf\Programlama Temelleri\Çalışmalar\2. Dönem 2. Yazılı Soruları ve Cevapları (02.05.2013)\Soru 1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\10.Sınıf\Programlama Temelleri\Çalışmalar\2. Dönem 2. Yazılı Soruları ve Cevapları (02.05.2013)\Soru 1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache

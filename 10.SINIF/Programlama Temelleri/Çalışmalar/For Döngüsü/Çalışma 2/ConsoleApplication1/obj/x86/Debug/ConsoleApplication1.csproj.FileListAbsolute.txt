@@ -1,0 +1,7 @@
+D:\Programlama Temelleri\Türkmen\for döngüleri\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Programlama Temelleri\Türkmen\for döngüleri\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Programlama Temelleri\Türkmen\for döngüleri\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Programlama Temelleri\Türkmen\for döngüleri\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+D:\Programlama Temelleri\Türkmen\for döngüleri\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\AcarZeynep\Desktop\Mustafa\Ders\Programlama Temelleri\Çalışmalar\Çalışma 18\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\AcarZeynep\Desktop\Mustafa\Ders\Programlama Temelleri\Çalışmalar\Çalışma 18\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb

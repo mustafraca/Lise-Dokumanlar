@@ -1,0 +1,20 @@
+C:\Users\BL2\Desktop\Alarm\Alarm\bin\Debug\Alarm.exe
+C:\Users\BL2\Desktop\Alarm\Alarm\bin\Debug\Alarm.pdb
+C:\Users\BL2\Desktop\Alarm\Alarm\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\BL2\Desktop\Alarm\Alarm\obj\x86\Debug\Alarm.Form1.resources
+C:\Users\BL2\Desktop\Alarm\Alarm\obj\x86\Debug\Alarm.Properties.Resources.resources
+C:\Users\BL2\Desktop\Alarm\Alarm\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\BL2\Desktop\Alarm\Alarm\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\BL2\Desktop\Alarm\Alarm\obj\x86\Debug\Alarm.exe
+C:\Users\BL2\Desktop\Alarm\Alarm\obj\x86\Debug\Alarm.pdb
+C:\Users\BL2\Desktop\Alarm\Alarm\obj\x86\Debug\Alarm.Form2.resources
+E:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\38)- Alarm\Alarm\bin\Debug\Alarm.exe
+E:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\38)- Alarm\Alarm\bin\Debug\Alarm.pdb
+E:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\38)- Alarm\Alarm\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\38)- Alarm\Alarm\obj\x86\Debug\Alarm.Form1.resources
+E:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\38)- Alarm\Alarm\obj\x86\Debug\Alarm.Form2.resources
+E:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\38)- Alarm\Alarm\obj\x86\Debug\Alarm.Properties.Resources.resources
+E:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\38)- Alarm\Alarm\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\38)- Alarm\Alarm\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\38)- Alarm\Alarm\obj\x86\Debug\Alarm.exe
+E:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\38)- Alarm\Alarm\obj\x86\Debug\Alarm.pdb

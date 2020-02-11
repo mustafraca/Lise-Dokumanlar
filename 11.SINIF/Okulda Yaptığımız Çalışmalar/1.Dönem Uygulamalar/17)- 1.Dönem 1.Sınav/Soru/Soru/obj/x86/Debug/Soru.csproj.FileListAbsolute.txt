@@ -1,0 +1,11 @@
+E:\Veri Tabanı\12.11.2013 Mustafa ACAR 11-B\Soru\Soru\bin\Debug\Soru.exe
+E:\Veri Tabanı\12.11.2013 Mustafa ACAR 11-B\Soru\Soru\bin\Debug\Soru.pdb
+E:\Veri Tabanı\12.11.2013 Mustafa ACAR 11-B\Soru\Soru\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Veri Tabanı\12.11.2013 Mustafa ACAR 11-B\Soru\Soru\obj\x86\Debug\Soru.Form1.resources
+E:\Veri Tabanı\12.11.2013 Mustafa ACAR 11-B\Soru\Soru\obj\x86\Debug\Soru.Properties.Resources.resources
+E:\Veri Tabanı\12.11.2013 Mustafa ACAR 11-B\Soru\Soru\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Veri Tabanı\12.11.2013 Mustafa ACAR 11-B\Soru\Soru\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Veri Tabanı\12.11.2013 Mustafa ACAR 11-B\Soru\Soru\obj\x86\Debug\Soru.exe
+E:\Veri Tabanı\12.11.2013 Mustafa ACAR 11-B\Soru\Soru\obj\x86\Debug\Soru.pdb
+J:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\17)- 1.Dönem 1.Sınav\Soru\Soru\obj\x86\Debug\Soru.exe
+J:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\17)- 1.Dönem 1.Sınav\Soru\Soru\obj\x86\Debug\Soru.pdb

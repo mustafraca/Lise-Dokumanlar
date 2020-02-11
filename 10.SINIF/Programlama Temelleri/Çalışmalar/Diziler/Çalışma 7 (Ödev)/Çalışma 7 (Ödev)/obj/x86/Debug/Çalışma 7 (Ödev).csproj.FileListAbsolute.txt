@@ -1,0 +1,7 @@
+D:\Programlama Temelleri\Çalışmalar\Diziler\Çalışma 7 (Ödev)\Çalışma 7 (Ödev)\bin\Debug\Çalışma 7 (Ödev).exe
+D:\Programlama Temelleri\Çalışmalar\Diziler\Çalışma 7 (Ödev)\Çalışma 7 (Ödev)\bin\Debug\Çalışma 7 (Ödev).pdb
+D:\Programlama Temelleri\Çalışmalar\Diziler\Çalışma 7 (Ödev)\Çalışma 7 (Ödev)\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Programlama Temelleri\Çalışmalar\Diziler\Çalışma 7 (Ödev)\Çalışma 7 (Ödev)\obj\x86\Debug\Çalışma 7 (Ödev).exe
+D:\Programlama Temelleri\Çalışmalar\Diziler\Çalışma 7 (Ödev)\Çalışma 7 (Ödev)\obj\x86\Debug\Çalışma 7 (Ödev).pdb
+C:\Users\AcarZeynep\Desktop\Mustafa\Ders\Programlama Temelleri\Çalışmalar\Diziler\Çalışma 7 (Ödev)\Çalışma 7 (Ödev)\obj\x86\Debug\Çalışma 7 (Ödev).exe
+C:\Users\AcarZeynep\Desktop\Mustafa\Ders\Programlama Temelleri\Çalışmalar\Diziler\Çalışma 7 (Ödev)\Çalışma 7 (Ödev)\obj\x86\Debug\Çalışma 7 (Ödev).pdb

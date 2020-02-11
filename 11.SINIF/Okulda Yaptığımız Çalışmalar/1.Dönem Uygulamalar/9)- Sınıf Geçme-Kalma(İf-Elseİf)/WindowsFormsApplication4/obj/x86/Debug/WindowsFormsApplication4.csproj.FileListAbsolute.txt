@@ -1,0 +1,36 @@
+c:\users\bl2\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+c:\users\bl2\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+c:\users\bl2\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bl2\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form1.resources
+c:\users\bl2\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Properties.Resources.resources
+c:\users\bl2\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\bl2\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\bl2\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.exe
+c:\users\bl2\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.pdb
+F:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\9)-SINIF GEÇME(ELSEİF)\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.exe
+F:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\9)-SINIF GEÇME(ELSEİF)\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.pdb
+F:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\9)-SINIF GEÇME(ELSEİF)\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+F:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\9)-SINIF GEÇME(ELSEİF)\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+F:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\9)-SINIF GEÇME(ELSEİF)\WindowsFormsApplication4\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\9)-SINIF GEÇME(ELSEİF)\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form1.resources
+F:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\9)-SINIF GEÇME(ELSEİF)\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Properties.Resources.resources
+F:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\9)-SINIF GEÇME(ELSEİF)\WindowsFormsApplication4\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\9)-SINIF GEÇME(ELSEİF)\WindowsFormsApplication4\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\9)- Sınıf Geçme-Kalma(İf-Elseİf)\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.exe
+F:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\9)- Sınıf Geçme-Kalma(İf-Elseİf)\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.pdb
+F:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\9)- Sınıf Geçme-Kalma(İf-Elseİf)\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+F:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\9)- Sınıf Geçme-Kalma(İf-Elseİf)\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+F:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\9)- Sınıf Geçme-Kalma(İf-Elseİf)\WindowsFormsApplication4\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\9)- Sınıf Geçme-Kalma(İf-Elseİf)\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form1.resources
+F:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\9)- Sınıf Geçme-Kalma(İf-Elseİf)\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Properties.Resources.resources
+F:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\9)- Sınıf Geçme-Kalma(İf-Elseİf)\WindowsFormsApplication4\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\9)- Sınıf Geçme-Kalma(İf-Elseİf)\WindowsFormsApplication4\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\Okulda Yaptığımız Çalışmalar\9)- Sınıf Geçme-Kalma(İf-Elseİf)\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.exe
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\Okulda Yaptığımız Çalışmalar\9)- Sınıf Geçme-Kalma(İf-Elseİf)\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.pdb
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\Okulda Yaptığımız Çalışmalar\9)- Sınıf Geçme-Kalma(İf-Elseİf)\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\Okulda Yaptığımız Çalışmalar\9)- Sınıf Geçme-Kalma(İf-Elseİf)\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\Okulda Yaptığımız Çalışmalar\9)- Sınıf Geçme-Kalma(İf-Elseİf)\WindowsFormsApplication4\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\Okulda Yaptığımız Çalışmalar\9)- Sınıf Geçme-Kalma(İf-Elseİf)\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form1.resources
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\Okulda Yaptığımız Çalışmalar\9)- Sınıf Geçme-Kalma(İf-Elseİf)\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Properties.Resources.resources
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\Okulda Yaptığımız Çalışmalar\9)- Sınıf Geçme-Kalma(İf-Elseİf)\WindowsFormsApplication4\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\Okulda Yaptığımız Çalışmalar\9)- Sınıf Geçme-Kalma(İf-Elseİf)\WindowsFormsApplication4\obj\x86\Debug\GenerateResource.write.1.tlog

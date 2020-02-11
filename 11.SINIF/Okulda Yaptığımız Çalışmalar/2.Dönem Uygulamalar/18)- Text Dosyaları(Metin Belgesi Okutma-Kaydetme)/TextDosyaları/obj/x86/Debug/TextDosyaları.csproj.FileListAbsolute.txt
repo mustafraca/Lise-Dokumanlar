@@ -1,0 +1,22 @@
+C:\Users\Acarr\Desktop\TextDosyaları\TextDosyaları\bin\Debug\TextDosyaları.exe
+C:\Users\Acarr\Desktop\TextDosyaları\TextDosyaları\bin\Debug\TextDosyaları.pdb
+C:\Users\Acarr\Desktop\TextDosyaları\TextDosyaları\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Acarr\Desktop\TextDosyaları\TextDosyaları\obj\x86\Debug\TextDosyaları.Form1.resources
+C:\Users\Acarr\Desktop\TextDosyaları\TextDosyaları\obj\x86\Debug\TextDosyaları.Properties.Resources.resources
+C:\Users\Acarr\Desktop\TextDosyaları\TextDosyaları\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Acarr\Desktop\TextDosyaları\TextDosyaları\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Acarr\Desktop\TextDosyaları\TextDosyaları\obj\x86\Debug\TextDosyaları.exe
+C:\Users\Acarr\Desktop\TextDosyaları\TextDosyaları\obj\x86\Debug\TextDosyaları.pdb
+E:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\2.Dönem Uygulamalar\17)- Text Dosyaları(Metin Belgesi Okutma-Kaydetme)\TextDosyaları\obj\x86\Debug\TextDosyaları.exe
+E:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\2.Dönem Uygulamalar\17)- Text Dosyaları(Metin Belgesi Okutma-Kaydetme)\TextDosyaları\obj\x86\Debug\TextDosyaları.pdb
+E:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\2.Dönem Uygulamalar\17)- Text Dosyaları(Metin Belgesi Okutma-Kaydetme)\TextDosyaları\bin\Debug\TextDosyaları.exe
+E:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\2.Dönem Uygulamalar\17)- Text Dosyaları(Metin Belgesi Okutma-Kaydetme)\TextDosyaları\bin\Debug\TextDosyaları.pdb
+E:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\2.Dönem Uygulamalar\17)- Text Dosyaları(Metin Belgesi Okutma-Kaydetme)\TextDosyaları\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\2.Dönem Uygulamalar\17)- Text Dosyaları(Metin Belgesi Okutma-Kaydetme)\TextDosyaları\obj\x86\Debug\TextDosyaları.Form1.resources
+E:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\2.Dönem Uygulamalar\17)- Text Dosyaları(Metin Belgesi Okutma-Kaydetme)\TextDosyaları\obj\x86\Debug\TextDosyaları.Properties.Resources.resources
+E:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\2.Dönem Uygulamalar\17)- Text Dosyaları(Metin Belgesi Okutma-Kaydetme)\TextDosyaları\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\2.Dönem Uygulamalar\17)- Text Dosyaları(Metin Belgesi Okutma-Kaydetme)\TextDosyaları\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\2.Dönem Uygulamalar\18)- Text Dosyaları(Metin Belgesi Okutma-Kaydetme)\TextDosyaları\obj\x86\Debug\TextDosyaları.exe
+E:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\2.Dönem Uygulamalar\18)- Text Dosyaları(Metin Belgesi Okutma-Kaydetme)\TextDosyaları\obj\x86\Debug\TextDosyaları.pdb
+E:\Mustafa\Okul Dosyaları\11.Sınıf\Okulda Yaptığımız Çalışmalar\2.Dönem Uygulamalar\18)- Text Dosyaları(Metin Belgesi Okutma-Kaydetme)\TextDosyaları\obj\x86\Debug\TextDosyaları.exe
+E:\Mustafa\Okul Dosyaları\11.Sınıf\Okulda Yaptığımız Çalışmalar\2.Dönem Uygulamalar\18)- Text Dosyaları(Metin Belgesi Okutma-Kaydetme)\TextDosyaları\obj\x86\Debug\TextDosyaları.pdb

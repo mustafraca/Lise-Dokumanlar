@@ -1,0 +1,15 @@
+c:\users\lab3\documents\visual studio 2010\Projects\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\lab3\documents\visual studio 2010\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+c:\users\lab3\documents\visual studio 2010\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+c:\users\lab3\documents\visual studio 2010\Projects\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.exe
+c:\users\lab3\documents\visual studio 2010\Projects\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.pdb
+E:\Programlama Temelleri\Çalışmalar\Çalışma 10\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.exe
+E:\Programlama Temelleri\Çalışmalar\Çalışma 10\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.pdb
+G:\Programlama Temelleri\Çalışmalar\Çalışma 10\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.exe
+G:\Programlama Temelleri\Çalışmalar\Çalışma 10\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.pdb
+D:\Programlama Temelleri\Çalışmalar\Çalışma 10\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.exe
+D:\Programlama Temelleri\Çalışmalar\Çalışma 10\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.pdb
+C:\Users\AcarZeynep\Desktop\Mustafa\Ders\Programlama Temelleri\Çalışmalar\Çalışma 9\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.exe
+C:\Users\AcarZeynep\Desktop\Mustafa\Ders\Programlama Temelleri\Çalışmalar\Çalışma 9\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.pdb
+C:\Users\AcarZeynep\Desktop\Mustafa\Ders\Programlama Temelleri\Çalışmalar\İf - Else Çalışmaları\Çalışma 9\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.exe
+C:\Users\AcarZeynep\Desktop\Mustafa\Ders\Programlama Temelleri\Çalışmalar\İf - Else Çalışmaları\Çalışma 9\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.pdb

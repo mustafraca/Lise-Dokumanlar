@@ -1,0 +1,16 @@
+C:\Users\BL2\Desktop\AsalSayi\AsalSayi\bin\Debug\AsalSayi.exe
+C:\Users\BL2\Desktop\AsalSayi\AsalSayi\bin\Debug\AsalSayi.pdb
+C:\Users\BL2\Desktop\AsalSayi\AsalSayi\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\BL2\Desktop\AsalSayi\AsalSayi\obj\x86\Debug\AsalSayi.Form1.resources
+C:\Users\BL2\Desktop\AsalSayi\AsalSayi\obj\x86\Debug\AsalSayi.Properties.Resources.resources
+C:\Users\BL2\Desktop\AsalSayi\AsalSayi\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\BL2\Desktop\AsalSayi\AsalSayi\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\BL2\Desktop\AsalSayi\AsalSayi\obj\x86\Debug\AsalSayi.exe
+C:\Users\BL2\Desktop\AsalSayi\AsalSayi\obj\x86\Debug\AsalSayi.pdb
+C:\Users\ACAR\Desktop\Yeni klasör\Okul Dosyaları\11.Sınıf\Okulda Yaptığımız Çalışmalar\2.Dönem Uygulamalar\11)- AsalSayi\AsalSayi\obj\x86\Debug\AsalSayi.exe
+C:\Users\ACAR\Desktop\Yeni klasör\Okul Dosyaları\11.Sınıf\Okulda Yaptığımız Çalışmalar\2.Dönem Uygulamalar\11)- AsalSayi\AsalSayi\obj\x86\Debug\AsalSayi.pdb
+C:\Users\ACAR\Desktop\Yeni klasör\Okul Dosyaları\11.Sınıf\Okulda Yaptığımız Çalışmalar\2.Dönem Uygulamalar\11)- AsalSayi\AsalSayi\bin\Debug\AsalSayi.exe
+C:\Users\ACAR\Desktop\Yeni klasör\Okul Dosyaları\11.Sınıf\Okulda Yaptığımız Çalışmalar\2.Dönem Uygulamalar\11)- AsalSayi\AsalSayi\bin\Debug\AsalSayi.pdb
+C:\Users\ACAR\Desktop\Yeni klasör\Okul Dosyaları\11.Sınıf\Okulda Yaptığımız Çalışmalar\2.Dönem Uygulamalar\11)- AsalSayi\AsalSayi\obj\x86\Debug\AsalSayi.Form1.resources
+C:\Users\ACAR\Desktop\Yeni klasör\Okul Dosyaları\11.Sınıf\Okulda Yaptığımız Çalışmalar\2.Dönem Uygulamalar\11)- AsalSayi\AsalSayi\obj\x86\Debug\AsalSayi.Properties.Resources.resources
+C:\Users\ACAR\Desktop\Yeni klasör\Okul Dosyaları\11.Sınıf\Okulda Yaptığımız Çalışmalar\2.Dönem Uygulamalar\11)- AsalSayi\AsalSayi\obj\x86\Debug\AsalSayi.csproj.GenerateResource.Cache

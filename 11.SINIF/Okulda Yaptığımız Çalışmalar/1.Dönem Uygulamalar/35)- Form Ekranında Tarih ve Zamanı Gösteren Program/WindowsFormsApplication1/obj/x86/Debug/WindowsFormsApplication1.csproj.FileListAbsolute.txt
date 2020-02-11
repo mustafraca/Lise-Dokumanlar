@@ -1,0 +1,7 @@
+E:\Mustafa\Okul Dosyaları\11.Sınıf\Okulda Yaptığımız Çalışmalar\1.Dönem Uygulamalar\35)- Form Ekranında Tarih ve Zamanı Gösteren Program\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Mustafa\Okul Dosyaları\11.Sınıf\Okulda Yaptığımız Çalışmalar\1.Dönem Uygulamalar\35)- Form Ekranında Tarih ve Zamanı Gösteren Program\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Mustafa\Okul Dosyaları\11.Sınıf\Okulda Yaptığımız Çalışmalar\1.Dönem Uygulamalar\35)- Form Ekranında Tarih ve Zamanı Gösteren Program\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\Mustafa\Okul Dosyaları\11.Sınıf\Okulda Yaptığımız Çalışmalar\1.Dönem Uygulamalar\35)- Form Ekranında Tarih ve Zamanı Gösteren Program\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Mustafa\Okul Dosyaları\11.Sınıf\Okulda Yaptığımız Çalışmalar\1.Dönem Uygulamalar\35)- Form Ekranında Tarih ve Zamanı Gösteren Program\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\Mustafa\Okul Dosyaları\11.Sınıf\Okulda Yaptığımız Çalışmalar\1.Dönem Uygulamalar\35)- Form Ekranında Tarih ve Zamanı Gösteren Program\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\Mustafa\Okul Dosyaları\11.Sınıf\Okulda Yaptığımız Çalışmalar\1.Dönem Uygulamalar\35)- Form Ekranında Tarih ve Zamanı Gösteren Program\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb

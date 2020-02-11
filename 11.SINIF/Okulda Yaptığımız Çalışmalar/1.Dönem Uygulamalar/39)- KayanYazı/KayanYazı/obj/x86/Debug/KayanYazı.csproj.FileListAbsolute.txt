@@ -1,0 +1,20 @@
+C:\Users\BL2\Desktop\KayanYazı\KayanYazı\bin\Debug\KayanYazı.exe
+C:\Users\BL2\Desktop\KayanYazı\KayanYazı\bin\Debug\KayanYazı.pdb
+C:\Users\BL2\Desktop\KayanYazı\KayanYazı\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\BL2\Desktop\KayanYazı\KayanYazı\obj\x86\Debug\KayanYazı.Form1.resources
+C:\Users\BL2\Desktop\KayanYazı\KayanYazı\obj\x86\Debug\KayanYazı.Properties.Resources.resources
+C:\Users\BL2\Desktop\KayanYazı\KayanYazı\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\BL2\Desktop\KayanYazı\KayanYazı\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\BL2\Desktop\KayanYazı\KayanYazı\obj\x86\Debug\KayanYazı.exe
+C:\Users\BL2\Desktop\KayanYazı\KayanYazı\obj\x86\Debug\KayanYazı.pdb
+E:\KayanYazı\KayanYazı\obj\x86\Debug\KayanYazı.exe
+E:\KayanYazı\KayanYazı\obj\x86\Debug\KayanYazı.pdb
+E:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\39)- KayanYazı\KayanYazı\obj\x86\Debug\KayanYazı.exe
+E:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\39)- KayanYazı\KayanYazı\obj\x86\Debug\KayanYazı.pdb
+E:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\39)- KayanYazı\KayanYazı\bin\Debug\KayanYazı.exe
+E:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\39)- KayanYazı\KayanYazı\bin\Debug\KayanYazı.pdb
+E:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\39)- KayanYazı\KayanYazı\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\39)- KayanYazı\KayanYazı\obj\x86\Debug\KayanYazı.Form1.resources
+E:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\39)- KayanYazı\KayanYazı\obj\x86\Debug\KayanYazı.Properties.Resources.resources
+E:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\39)- KayanYazı\KayanYazı\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\39)- KayanYazı\KayanYazı\obj\x86\Debug\GenerateResource.write.1.tlog

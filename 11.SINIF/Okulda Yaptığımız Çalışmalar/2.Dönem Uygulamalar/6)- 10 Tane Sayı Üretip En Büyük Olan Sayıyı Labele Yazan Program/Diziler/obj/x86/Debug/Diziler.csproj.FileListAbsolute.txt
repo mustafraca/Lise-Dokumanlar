@@ -1,0 +1,11 @@
+c:\users\bl2\documents\visual studio 2010\Projects\Diziler\Diziler\bin\Debug\Diziler.exe
+c:\users\bl2\documents\visual studio 2010\Projects\Diziler\Diziler\bin\Debug\Diziler.pdb
+c:\users\bl2\documents\visual studio 2010\Projects\Diziler\Diziler\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bl2\documents\visual studio 2010\Projects\Diziler\Diziler\obj\x86\Debug\Diziler.Form1.resources
+c:\users\bl2\documents\visual studio 2010\Projects\Diziler\Diziler\obj\x86\Debug\Diziler.Properties.Resources.resources
+c:\users\bl2\documents\visual studio 2010\Projects\Diziler\Diziler\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\bl2\documents\visual studio 2010\Projects\Diziler\Diziler\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\bl2\documents\visual studio 2010\Projects\Diziler\Diziler\obj\x86\Debug\Diziler.exe
+c:\users\bl2\documents\visual studio 2010\Projects\Diziler\Diziler\obj\x86\Debug\Diziler.pdb
+E:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\2.Dönem Uygulamalar\6)- 10 Tane Sayı Üretip En Büyük Olan Sayıyı Labele Yazan Program\Diziler\obj\x86\Debug\Diziler.exe
+E:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\2.Dönem Uygulamalar\6)- 10 Tane Sayı Üretip En Büyük Olan Sayıyı Labele Yazan Program\Diziler\obj\x86\Debug\Diziler.pdb

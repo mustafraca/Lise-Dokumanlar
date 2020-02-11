@@ -1,0 +1,11 @@
+D:\Programlama Temelleri\Çalışmalar\Diziler\Çalışma 1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Programlama Temelleri\Çalışmalar\Diziler\Çalışma 1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Programlama Temelleri\Çalışmalar\Diziler\Çalışma 1\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Programlama Temelleri\Çalışmalar\Diziler\Çalışma 1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+D:\Programlama Temelleri\Çalışmalar\Diziler\Çalışma 1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\ACAR\Desktop\SAÜ\SATL\10.SINIF\Programlama Temelleri\Çalışmalar\Diziler\Çalışma 1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\ACAR\Desktop\SAÜ\SATL\10.SINIF\Programlama Temelleri\Çalışmalar\Diziler\Çalışma 1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\ACAR\Desktop\SAÜ\SATL\10.SINIF\Programlama Temelleri\Çalışmalar\Diziler\Çalışma 1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.csprojAssemblyReference.cache
+C:\Users\ACAR\Desktop\SAÜ\SATL\10.SINIF\Programlama Temelleri\Çalışmalar\Diziler\Çalışma 1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
+C:\Users\ACAR\Desktop\SAÜ\SATL\10.SINIF\Programlama Temelleri\Çalışmalar\Diziler\Çalışma 1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\ACAR\Desktop\SAÜ\SATL\10.SINIF\Programlama Temelleri\Çalışmalar\Diziler\Çalışma 1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb

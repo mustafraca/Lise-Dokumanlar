@@ -1,0 +1,21 @@
+C:\Users\LAB3\Desktop\erhantüzüklü402\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\LAB3\Desktop\erhantüzüklü402\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\LAB3\Desktop\erhantüzüklü402\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\LAB3\Desktop\erhantüzüklü402\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\LAB3\Desktop\erhantüzüklü402\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\LAB3\Desktop\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\LAB3\Desktop\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+D:\for\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+D:\for\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+D:\Programlama Temelleri\Çalışmalar\Çalışma 23\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+D:\Programlama Temelleri\Çalışmalar\Çalışma 23\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+D:\Programlama Temelleri\Çalışmalar\Çalışma 23\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Programlama Temelleri\Çalışmalar\Çalışma 23\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Programlama Temelleri\Çalışmalar\Çalışma 23\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\AcarZeynep\Desktop\Mustafa\Ders\Programlama Temelleri\Çalışmalar\Çalışma 23\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\AcarZeynep\Desktop\Mustafa\Ders\Programlama Temelleri\Çalışmalar\Çalışma 23\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\AcarZeynep\Desktop\Mustafa\Ders\Programlama Temelleri\Çalışmalar\For Döngüsü\Çalışma 7\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\AcarZeynep\Desktop\Mustafa\Ders\Programlama Temelleri\Çalışmalar\For Döngüsü\Çalışma 7\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\AcarZeynep\Desktop\Mustafa\Ders\Programlama Temelleri\Çalışmalar\For Döngüsü\Çalışma 7\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\AcarZeynep\Desktop\Mustafa\Ders\Programlama Temelleri\Çalışmalar\For Döngüsü\Çalışma 7\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\AcarZeynep\Desktop\Mustafa\Ders\Programlama Temelleri\Çalışmalar\For Döngüsü\Çalışma 7\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache

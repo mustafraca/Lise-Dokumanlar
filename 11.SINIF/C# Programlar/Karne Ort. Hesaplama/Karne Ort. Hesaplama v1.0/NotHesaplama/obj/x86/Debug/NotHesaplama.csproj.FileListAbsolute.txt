@@ -1,0 +1,125 @@
+c:\users\mustafa acar\documents\visual studio 2010\Projects\NotHesaplama\NotHesaplama\bin\Debug\NotHesaplama.exe
+c:\users\mustafa acar\documents\visual studio 2010\Projects\NotHesaplama\NotHesaplama\bin\Debug\NotHesaplama.pdb
+c:\users\mustafa acar\documents\visual studio 2010\Projects\NotHesaplama\NotHesaplama\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\mustafa acar\documents\visual studio 2010\Projects\NotHesaplama\NotHesaplama\obj\x86\Debug\NotHesaplama.Form1.resources
+c:\users\mustafa acar\documents\visual studio 2010\Projects\NotHesaplama\NotHesaplama\obj\x86\Debug\NotHesaplama.Properties.Resources.resources
+c:\users\mustafa acar\documents\visual studio 2010\Projects\NotHesaplama\NotHesaplama\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\mustafa acar\documents\visual studio 2010\Projects\NotHesaplama\NotHesaplama\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\mustafa acar\documents\visual studio 2010\Projects\NotHesaplama\NotHesaplama\obj\x86\Debug\NotHesaplama.exe
+c:\users\mustafa acar\documents\visual studio 2010\Projects\NotHesaplama\NotHesaplama\obj\x86\Debug\NotHesaplama.pdb
+C:\Users\Mustafa Acar\Desktop\Performans Ödevleri\NotHesaplama\NotHesaplama\bin\Debug\NotHesaplama.exe
+C:\Users\Mustafa Acar\Desktop\Performans Ödevleri\NotHesaplama\NotHesaplama\bin\Debug\NotHesaplama.pdb
+C:\Users\Mustafa Acar\Desktop\Performans Ödevleri\NotHesaplama\NotHesaplama\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mustafa Acar\Desktop\Performans Ödevleri\NotHesaplama\NotHesaplama\obj\x86\Debug\NotHesaplama.Form1.resources
+C:\Users\Mustafa Acar\Desktop\Performans Ödevleri\NotHesaplama\NotHesaplama\obj\x86\Debug\NotHesaplama.Properties.Resources.resources
+C:\Users\Mustafa Acar\Desktop\Performans Ödevleri\NotHesaplama\NotHesaplama\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mustafa Acar\Desktop\Performans Ödevleri\NotHesaplama\NotHesaplama\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mustafa Acar\Desktop\Performans Ödevleri\NotHesaplama\NotHesaplama\obj\x86\Debug\NotHesaplama.exe
+C:\Users\Mustafa Acar\Desktop\Performans Ödevleri\NotHesaplama\NotHesaplama\obj\x86\Debug\NotHesaplama.pdb
+J:\Performans Ödevleri\NotHesaplama\NotHesaplama\obj\x86\Debug\NotHesaplama.exe
+J:\Performans Ödevleri\NotHesaplama\NotHesaplama\obj\x86\Debug\NotHesaplama.pdb
+J:\Performans Ödevleri\NotHesaplama\NotHesaplama\bin\Debug\NotHesaplama.exe
+J:\Performans Ödevleri\NotHesaplama\NotHesaplama\bin\Debug\NotHesaplama.pdb
+J:\Performans Ödevleri\NotHesaplama\NotHesaplama\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\Performans Ödevleri\NotHesaplama\NotHesaplama\obj\x86\Debug\NotHesaplama.Form1.resources
+J:\Performans Ödevleri\NotHesaplama\NotHesaplama\obj\x86\Debug\NotHesaplama.Properties.Resources.resources
+J:\Performans Ödevleri\NotHesaplama\NotHesaplama\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\Performans Ödevleri\NotHesaplama\NotHesaplama\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Performans Ödevleri\NotHesaplama\NotHesaplama\obj\x86\Debug\NotHesaplama.exe
+E:\Performans Ödevleri\NotHesaplama\NotHesaplama\obj\x86\Debug\NotHesaplama.pdb
+E:\Performans Ödevleri\NotHesaplama\NotHesaplama\bin\Debug\NotHesaplama.exe
+E:\Performans Ödevleri\NotHesaplama\NotHesaplama\bin\Debug\NotHesaplama.pdb
+E:\Performans Ödevleri\NotHesaplama\NotHesaplama\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Performans Ödevleri\NotHesaplama\NotHesaplama\obj\x86\Debug\NotHesaplama.Form1.resources
+E:\Performans Ödevleri\NotHesaplama\NotHesaplama\obj\x86\Debug\NotHesaplama.Properties.Resources.resources
+E:\Performans Ödevleri\NotHesaplama\NotHesaplama\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Performans Ödevleri\NotHesaplama\NotHesaplama\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Karne Ort. Hesaplama\NotHesaplama\bin\Debug\NotHesaplama.exe
+E:\Karne Ort. Hesaplama\NotHesaplama\bin\Debug\NotHesaplama.pdb
+E:\Karne Ort. Hesaplama\NotHesaplama\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Karne Ort. Hesaplama\NotHesaplama\obj\x86\Debug\NotHesaplama.Form1.resources
+E:\Karne Ort. Hesaplama\NotHesaplama\obj\x86\Debug\NotHesaplama.Properties.Resources.resources
+E:\Karne Ort. Hesaplama\NotHesaplama\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Karne Ort. Hesaplama\NotHesaplama\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Karne Ort. Hesaplama\NotHesaplama\obj\x86\Debug\NotHesaplama.exe
+E:\Karne Ort. Hesaplama\NotHesaplama\obj\x86\Debug\NotHesaplama.pdb
+K:\Karne Ort. Hesaplama\NotHesaplama\obj\x86\Debug\NotHesaplama.exe
+K:\Karne Ort. Hesaplama\NotHesaplama\obj\x86\Debug\NotHesaplama.pdb
+K:\Karne Ort. Hesaplama\NotHesaplama\bin\Debug\NotHesaplama.exe
+K:\Karne Ort. Hesaplama\NotHesaplama\bin\Debug\NotHesaplama.pdb
+K:\Karne Ort. Hesaplama\NotHesaplama\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\Karne Ort. Hesaplama\NotHesaplama\obj\x86\Debug\NotHesaplama.Form1.resources
+K:\Karne Ort. Hesaplama\NotHesaplama\obj\x86\Debug\NotHesaplama.Properties.Resources.resources
+K:\Karne Ort. Hesaplama\NotHesaplama\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\Karne Ort. Hesaplama\NotHesaplama\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Programlar\Karne Ort. Hesaplama\NotHesaplama\bin\Debug\NotHesaplama.exe
+E:\Programlar\Karne Ort. Hesaplama\NotHesaplama\bin\Debug\NotHesaplama.pdb
+E:\Programlar\Karne Ort. Hesaplama\NotHesaplama\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Programlar\Karne Ort. Hesaplama\NotHesaplama\obj\x86\Debug\NotHesaplama.Form1.resources
+E:\Programlar\Karne Ort. Hesaplama\NotHesaplama\obj\x86\Debug\NotHesaplama.Form2.resources
+E:\Programlar\Karne Ort. Hesaplama\NotHesaplama\obj\x86\Debug\NotHesaplama.Properties.Resources.resources
+E:\Programlar\Karne Ort. Hesaplama\NotHesaplama\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Programlar\Karne Ort. Hesaplama\NotHesaplama\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Programlar\Karne Ort. Hesaplama\NotHesaplama\obj\x86\Debug\NotHesaplama.exe
+E:\Programlar\Karne Ort. Hesaplama\NotHesaplama\obj\x86\Debug\NotHesaplama.pdb
+J:\Veri Tabanı\Çalışmalar\Karne Ort. Hesaplama\NotHesaplama\obj\x86\Debug\NotHesaplama.exe
+J:\Veri Tabanı\Çalışmalar\Karne Ort. Hesaplama\NotHesaplama\obj\x86\Debug\NotHesaplama.pdb
+J:\Veri Tabanı\Çalışmalar\Karne Ort. Hesaplama\NotHesaplama\bin\Debug\NotHesaplama.exe
+J:\Veri Tabanı\Çalışmalar\Karne Ort. Hesaplama\NotHesaplama\bin\Debug\NotHesaplama.pdb
+J:\Veri Tabanı\Çalışmalar\Karne Ort. Hesaplama\NotHesaplama\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\Veri Tabanı\Çalışmalar\Karne Ort. Hesaplama\NotHesaplama\obj\x86\Debug\NotHesaplama.Form1.resources
+J:\Veri Tabanı\Çalışmalar\Karne Ort. Hesaplama\NotHesaplama\obj\x86\Debug\NotHesaplama.Form2.resources
+J:\Veri Tabanı\Çalışmalar\Karne Ort. Hesaplama\NotHesaplama\obj\x86\Debug\NotHesaplama.Properties.Resources.resources
+J:\Veri Tabanı\Çalışmalar\Karne Ort. Hesaplama\NotHesaplama\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\Veri Tabanı\Çalışmalar\Karne Ort. Hesaplama\NotHesaplama\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Veri Tabanı\Çalışmalar\Karne Ort. Hesaplama\NotHesaplama\obj\x86\Debug\NotHesaplama.exe
+E:\Veri Tabanı\Çalışmalar\Karne Ort. Hesaplama\NotHesaplama\obj\x86\Debug\NotHesaplama.pdb
+E:\Veri Tabanı\Çalışmalar\Karne Ort. Hesaplama\NotHesaplama\bin\Debug\NotHesaplama.exe
+E:\Veri Tabanı\Çalışmalar\Karne Ort. Hesaplama\NotHesaplama\bin\Debug\NotHesaplama.pdb
+E:\Veri Tabanı\Çalışmalar\Karne Ort. Hesaplama\NotHesaplama\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Veri Tabanı\Çalışmalar\Karne Ort. Hesaplama\NotHesaplama\obj\x86\Debug\NotHesaplama.Form1.resources
+E:\Veri Tabanı\Çalışmalar\Karne Ort. Hesaplama\NotHesaplama\obj\x86\Debug\NotHesaplama.Properties.Resources.resources
+E:\Veri Tabanı\Çalışmalar\Karne Ort. Hesaplama\NotHesaplama\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Veri Tabanı\Çalışmalar\Karne Ort. Hesaplama\NotHesaplama\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Veri Tabanı\Programlar\Karne Ort. Hesaplama\NotHesaplama\obj\x86\Debug\NotHesaplama.exe
+E:\Veri Tabanı\Programlar\Karne Ort. Hesaplama\NotHesaplama\obj\x86\Debug\NotHesaplama.pdb
+E:\Veri Tabanı\Programlar\Karne Ort. Hesaplama\NotHesaplama\bin\Debug\NotHesaplama.exe
+E:\Veri Tabanı\Programlar\Karne Ort. Hesaplama\NotHesaplama\bin\Debug\NotHesaplama.pdb
+E:\Veri Tabanı\Programlar\Karne Ort. Hesaplama\NotHesaplama\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Veri Tabanı\Programlar\Karne Ort. Hesaplama\NotHesaplama\obj\x86\Debug\NotHesaplama.Form1.resources
+E:\Veri Tabanı\Programlar\Karne Ort. Hesaplama\NotHesaplama\obj\x86\Debug\NotHesaplama.Properties.Resources.resources
+E:\Veri Tabanı\Programlar\Karne Ort. Hesaplama\NotHesaplama\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Veri Tabanı\Programlar\Karne Ort. Hesaplama\NotHesaplama\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Mustafa\Okul Dosyaları\Programlar\Karne Ort. Hesaplama\NotHesaplama\obj\x86\Debug\NotHesaplama.exe
+F:\Mustafa\Okul Dosyaları\Programlar\Karne Ort. Hesaplama\NotHesaplama\obj\x86\Debug\NotHesaplama.pdb
+F:\Mustafa\Okul Dosyaları\Programlar\Karne Ort. Hesaplama\NotHesaplama\bin\Debug\NotHesaplama.exe
+F:\Mustafa\Okul Dosyaları\Programlar\Karne Ort. Hesaplama\NotHesaplama\bin\Debug\NotHesaplama.pdb
+F:\Mustafa\Okul Dosyaları\Programlar\Karne Ort. Hesaplama\NotHesaplama\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Mustafa\Okul Dosyaları\Programlar\Karne Ort. Hesaplama\NotHesaplama\obj\x86\Debug\NotHesaplama.Form1.resources
+F:\Mustafa\Okul Dosyaları\Programlar\Karne Ort. Hesaplama\NotHesaplama\obj\x86\Debug\NotHesaplama.Properties.Resources.resources
+F:\Mustafa\Okul Dosyaları\Programlar\Karne Ort. Hesaplama\NotHesaplama\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Mustafa\Okul Dosyaları\Programlar\Karne Ort. Hesaplama\NotHesaplama\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\Programlar\Karne Ort. Hesaplama\NotHesaplama\obj\x86\Debug\NotHesaplama.exe
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\Programlar\Karne Ort. Hesaplama\NotHesaplama\obj\x86\Debug\NotHesaplama.pdb
+C:\Documents and Settings\Administrator\Desktop\C# Programlar\Karne Ort. Hesaplama\NotHesaplama\obj\x86\Debug\NotHesaplama.exe
+C:\Documents and Settings\Administrator\Desktop\C# Programlar\Karne Ort. Hesaplama\NotHesaplama\obj\x86\Debug\NotHesaplama.pdb
+C:\Documents and Settings\Administrator\Desktop\C# Programlar\Karne Ort. Hesaplama\NotHesaplama\bin\Debug\NotHesaplama.exe
+C:\Documents and Settings\Administrator\Desktop\C# Programlar\Karne Ort. Hesaplama\NotHesaplama\bin\Debug\NotHesaplama.pdb
+C:\Documents and Settings\Administrator\Desktop\C# Programlar\Karne Ort. Hesaplama\NotHesaplama\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\C# Programlar\Karne Ort. Hesaplama\NotHesaplama\obj\x86\Debug\NotHesaplama.Form1.resources
+C:\Documents and Settings\Administrator\Desktop\C# Programlar\Karne Ort. Hesaplama\NotHesaplama\obj\x86\Debug\NotHesaplama.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\C# Programlar\Karne Ort. Hesaplama\NotHesaplama\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\Desktop\C# Programlar\Karne Ort. Hesaplama\NotHesaplama\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\C# Programlar\Karne Ort. Hesaplama\Karne Ort. Hesaplama v1.0\NotHesaplama\obj\x86\Debug\NotHesaplama.exe
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\C# Programlar\Karne Ort. Hesaplama\Karne Ort. Hesaplama v1.0\NotHesaplama\obj\x86\Debug\NotHesaplama.pdb
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\C# Programlar\Karne Ort. Hesaplama\Karne Ort. Hesaplama v1.0\NotHesaplama\bin\Debug\NotHesaplama.exe
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\C# Programlar\Karne Ort. Hesaplama\Karne Ort. Hesaplama v1.0\NotHesaplama\bin\Debug\NotHesaplama.pdb
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\C# Programlar\Karne Ort. Hesaplama\Karne Ort. Hesaplama v1.0\NotHesaplama\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\C# Programlar\Karne Ort. Hesaplama\Karne Ort. Hesaplama v1.0\NotHesaplama\obj\x86\Debug\NotHesaplama.Form1.resources
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\C# Programlar\Karne Ort. Hesaplama\Karne Ort. Hesaplama v1.0\NotHesaplama\obj\x86\Debug\NotHesaplama.Properties.Resources.resources
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\C# Programlar\Karne Ort. Hesaplama\Karne Ort. Hesaplama v1.0\NotHesaplama\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\C# Programlar\Karne Ort. Hesaplama\Karne Ort. Hesaplama v1.0\NotHesaplama\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Mustafa\Okul Dosyaları\11.Sınıf\C# Programlar\Karne Ort. Hesaplama\Karne Ort. Hesaplama v1.0\NotHesaplama\obj\x86\Debug\NotHesaplama.exe
+E:\Mustafa\Okul Dosyaları\11.Sınıf\C# Programlar\Karne Ort. Hesaplama\Karne Ort. Hesaplama v1.0\NotHesaplama\obj\x86\Debug\NotHesaplama.pdb
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\11.Sınıf\C# Programlar\Karne Ort. Hesaplama\Karne Ort. Hesaplama v1.0\NotHesaplama\obj\x86\Debug\NotHesaplama.exe
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\11.Sınıf\C# Programlar\Karne Ort. Hesaplama\Karne Ort. Hesaplama v1.0\NotHesaplama\obj\x86\Debug\NotHesaplama.pdb

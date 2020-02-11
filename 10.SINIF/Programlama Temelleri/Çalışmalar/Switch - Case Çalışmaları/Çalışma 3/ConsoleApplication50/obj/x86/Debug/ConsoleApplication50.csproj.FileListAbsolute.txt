@@ -1,0 +1,12 @@
+G:\Programlama Temelleri\Çalışmalar\Çalışma 13\ConsoleApplication50\bin\Debug\ConsoleApplication50.exe
+G:\Programlama Temelleri\Çalışmalar\Çalışma 13\ConsoleApplication50\bin\Debug\ConsoleApplication50.pdb
+G:\Programlama Temelleri\Çalışmalar\Çalışma 13\ConsoleApplication50\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Programlama Temelleri\Çalışmalar\Çalışma 13\ConsoleApplication50\obj\x86\Debug\ConsoleApplication50.exe
+G:\Programlama Temelleri\Çalışmalar\Çalışma 13\ConsoleApplication50\obj\x86\Debug\ConsoleApplication50.pdb
+D:\Programlama Temelleri\Çalışmalar\Çalışma 13\ConsoleApplication50\obj\x86\Debug\ConsoleApplication50.exe
+D:\Programlama Temelleri\Çalışmalar\Çalışma 13\ConsoleApplication50\bin\Debug\ConsoleApplication50.exe
+D:\Programlama Temelleri\Çalışmalar\Çalışma 13\ConsoleApplication50\bin\Debug\ConsoleApplication50.pdb
+D:\Programlama Temelleri\Çalışmalar\Çalışma 13\ConsoleApplication50\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Programlama Temelleri\Çalışmalar\Çalışma 13\ConsoleApplication50\obj\x86\Debug\ConsoleApplication50.pdb
+D:\Programlama Temelleri\Çalışmalar\Switch - Case Çalışmaları\Çalışma 3\ConsoleApplication50\obj\x86\Debug\ConsoleApplication50.exe
+D:\Programlama Temelleri\Çalışmalar\Switch - Case Çalışmaları\Çalışma 3\ConsoleApplication50\obj\x86\Debug\ConsoleApplication50.pdb

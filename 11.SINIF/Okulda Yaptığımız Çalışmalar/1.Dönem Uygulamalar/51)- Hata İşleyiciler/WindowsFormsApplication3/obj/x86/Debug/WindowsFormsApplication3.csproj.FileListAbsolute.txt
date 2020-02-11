@@ -1,0 +1,71 @@
+C:\Users\BL2\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\BL2\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\BL2\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\BL2\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\BL2\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form2.resources
+C:\Users\BL2\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\BL2\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\BL2\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\BL2\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+C:\Users\BL2\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+C:\Users\BL2\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form3.resources
+F:\BG SUNU\TÜM PROGRAM\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+F:\BG SUNU\TÜM PROGRAM\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+F:\BG SUNU\TÜM PROGRAM\WindowsFormsApplication3\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\BG SUNU\TÜM PROGRAM\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form1.resources
+F:\BG SUNU\TÜM PROGRAM\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form10.resources
+F:\BG SUNU\TÜM PROGRAM\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form11.resources
+F:\BG SUNU\TÜM PROGRAM\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form2.resources
+F:\BG SUNU\TÜM PROGRAM\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form3.resources
+F:\BG SUNU\TÜM PROGRAM\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form4.resources
+F:\BG SUNU\TÜM PROGRAM\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form5.resources
+F:\BG SUNU\TÜM PROGRAM\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form6.resources
+F:\BG SUNU\TÜM PROGRAM\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form7.resources
+F:\BG SUNU\TÜM PROGRAM\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form9.resources
+F:\BG SUNU\TÜM PROGRAM\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+F:\BG SUNU\TÜM PROGRAM\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\BG SUNU\TÜM PROGRAM\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\BG SUNU\TÜM PROGRAM\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+F:\BG SUNU\TÜM PROGRAM\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+E:\BG SUNU\TÜM PROGRAM\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+E:\BG SUNU\TÜM PROGRAM\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+E:\BG SUNU\TÜM PROGRAM\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+E:\BG SUNU\TÜM PROGRAM\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+E:\BG SUNU\TÜM PROGRAM\WindowsFormsApplication3\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\BG SUNU\TÜM PROGRAM\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form1.resources
+E:\BG SUNU\TÜM PROGRAM\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form10.resources
+E:\BG SUNU\TÜM PROGRAM\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form11.resources
+E:\BG SUNU\TÜM PROGRAM\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form2.resources
+E:\BG SUNU\TÜM PROGRAM\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form3.resources
+E:\BG SUNU\TÜM PROGRAM\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form4.resources
+E:\BG SUNU\TÜM PROGRAM\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form5.resources
+E:\BG SUNU\TÜM PROGRAM\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form6.resources
+E:\BG SUNU\TÜM PROGRAM\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form7.resources
+E:\BG SUNU\TÜM PROGRAM\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form9.resources
+E:\BG SUNU\TÜM PROGRAM\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+E:\BG SUNU\TÜM PROGRAM\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\BG SUNU\TÜM PROGRAM\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Denizcann\Desktop\45-)Try Catch\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+C:\Users\Denizcann\Desktop\45-)Try Catch\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+E:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\45)-Try Catch\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+E:\Veri Tabanı\Okulda Yaptığımız Çalışmalar\45)-Try Catch\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+C:\Users\BL2\Desktop\45)-Try Catch\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+C:\Users\BL2\Desktop\45)-Try Catch\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+C:\Users\BL2\Desktop\45)-Try Catch\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\BL2\Desktop\45)-Try Catch\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\BL2\Desktop\45)-Try Catch\WindowsFormsApplication3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\BL2\Desktop\45)-Try Catch\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\BL2\Desktop\45)-Try Catch\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form10.resources
+C:\Users\BL2\Desktop\45)-Try Catch\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form11.resources
+C:\Users\BL2\Desktop\45)-Try Catch\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form2.resources
+C:\Users\BL2\Desktop\45)-Try Catch\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form3.resources
+C:\Users\BL2\Desktop\45)-Try Catch\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form4.resources
+C:\Users\BL2\Desktop\45)-Try Catch\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form5.resources
+C:\Users\BL2\Desktop\45)-Try Catch\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form6.resources
+C:\Users\BL2\Desktop\45)-Try Catch\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form7.resources
+C:\Users\BL2\Desktop\45)-Try Catch\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form9.resources
+C:\Users\BL2\Desktop\45)-Try Catch\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\BL2\Desktop\45)-Try Catch\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\BL2\Desktop\45)-Try Catch\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\45)- HATA İŞLEYİCİLER\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+E:\45)- HATA İŞLEYİCİLER\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb

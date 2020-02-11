@@ -1,0 +1,14 @@
+c:\users\lab3\documents\visual studio 2010\Projects\ConsoleApplication20\ConsoleApplication20\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\lab3\documents\visual studio 2010\Projects\ConsoleApplication20\ConsoleApplication20\bin\Debug\ConsoleApplication20.exe
+c:\users\lab3\documents\visual studio 2010\Projects\ConsoleApplication20\ConsoleApplication20\bin\Debug\ConsoleApplication20.pdb
+c:\users\lab3\documents\visual studio 2010\Projects\ConsoleApplication20\ConsoleApplication20\obj\x86\Debug\ConsoleApplication20.exe
+c:\users\lab3\documents\visual studio 2010\Projects\ConsoleApplication20\ConsoleApplication20\obj\x86\Debug\ConsoleApplication20.pdb
+F:\Programlama Temelleri\Çalışmalar\ConsoleApplication20\ConsoleApplication20\obj\x86\Debug\ConsoleApplication20.exe
+F:\Programlama Temelleri\Çalışmalar\ConsoleApplication20\ConsoleApplication20\obj\x86\Debug\ConsoleApplication20.pdb
+D:\Programlama Temelleri\Çalışmalar\Çalışma 1\ConsoleApplication20\obj\x86\Debug\ConsoleApplication20.exe
+D:\Programlama Temelleri\Çalışmalar\Çalışma 1\ConsoleApplication20\obj\x86\Debug\ConsoleApplication20.pdb
+D:\Programlama Temelleri\Çalışmalar\Çalışma 1\ConsoleApplication20\bin\Debug\ConsoleApplication20.exe
+D:\Programlama Temelleri\Çalışmalar\Çalışma 1\ConsoleApplication20\bin\Debug\ConsoleApplication20.pdb
+D:\Programlama Temelleri\Çalışmalar\Çalışma 1\ConsoleApplication20\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\AcarZeynep\Desktop\Mustafa\Ders\Programlama Temelleri\Çalışmalar\İf - Else Çalışmaları\Çalışma 1\ConsoleApplication20\obj\x86\Debug\ConsoleApplication20.exe
+C:\Users\AcarZeynep\Desktop\Mustafa\Ders\Programlama Temelleri\Çalışmalar\İf - Else Çalışmaları\Çalışma 1\ConsoleApplication20\obj\x86\Debug\ConsoleApplication20.pdb

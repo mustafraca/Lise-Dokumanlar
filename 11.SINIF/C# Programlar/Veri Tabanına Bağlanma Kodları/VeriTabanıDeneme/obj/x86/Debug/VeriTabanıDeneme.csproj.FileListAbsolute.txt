@@ -1,0 +1,8 @@
+E:\Mustafa\Okul Dosyaları\11.Sınıf\C# Programlar\Veri Tabanına Bağlanma Kodları\VeriTabanıDeneme\bin\Debug\VeriTabanıDeneme.exe
+E:\Mustafa\Okul Dosyaları\11.Sınıf\C# Programlar\Veri Tabanına Bağlanma Kodları\VeriTabanıDeneme\bin\Debug\VeriTabanıDeneme.pdb
+E:\Mustafa\Okul Dosyaları\11.Sınıf\C# Programlar\Veri Tabanına Bağlanma Kodları\VeriTabanıDeneme\obj\x86\Debug\VeriTabanıDeneme.csprojResolveAssemblyReference.cache
+E:\Mustafa\Okul Dosyaları\11.Sınıf\C# Programlar\Veri Tabanına Bağlanma Kodları\VeriTabanıDeneme\obj\x86\Debug\VeriTabanıDeneme.Form1.resources
+E:\Mustafa\Okul Dosyaları\11.Sınıf\C# Programlar\Veri Tabanına Bağlanma Kodları\VeriTabanıDeneme\obj\x86\Debug\VeriTabanıDeneme.Properties.Resources.resources
+E:\Mustafa\Okul Dosyaları\11.Sınıf\C# Programlar\Veri Tabanına Bağlanma Kodları\VeriTabanıDeneme\obj\x86\Debug\VeriTabanıDeneme.csproj.GenerateResource.Cache
+E:\Mustafa\Okul Dosyaları\11.Sınıf\C# Programlar\Veri Tabanına Bağlanma Kodları\VeriTabanıDeneme\obj\x86\Debug\VeriTabanıDeneme.exe
+E:\Mustafa\Okul Dosyaları\11.Sınıf\C# Programlar\Veri Tabanına Bağlanma Kodları\VeriTabanıDeneme\obj\x86\Debug\VeriTabanıDeneme.pdb

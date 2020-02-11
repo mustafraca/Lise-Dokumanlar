@@ -1,0 +1,11 @@
+c:\users\bl2\documents\visual studio 2010\Projects\Dizi\Dizi\bin\Debug\Dizi.exe
+c:\users\bl2\documents\visual studio 2010\Projects\Dizi\Dizi\bin\Debug\Dizi.pdb
+c:\users\bl2\documents\visual studio 2010\Projects\Dizi\Dizi\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bl2\documents\visual studio 2010\Projects\Dizi\Dizi\obj\x86\Debug\Dizi.Form1.resources
+c:\users\bl2\documents\visual studio 2010\Projects\Dizi\Dizi\obj\x86\Debug\Dizi.Properties.Resources.resources
+c:\users\bl2\documents\visual studio 2010\Projects\Dizi\Dizi\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\bl2\documents\visual studio 2010\Projects\Dizi\Dizi\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\bl2\documents\visual studio 2010\Projects\Dizi\Dizi\obj\x86\Debug\Dizi.exe
+c:\users\bl2\documents\visual studio 2010\Projects\Dizi\Dizi\obj\x86\Debug\Dizi.pdb
+C:\Users\Mustafa\Desktop\Dizi\Dizi\obj\x86\Debug\Dizi.exe
+C:\Users\Mustafa\Desktop\Dizi\Dizi\obj\x86\Debug\Dizi.pdb

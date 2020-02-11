@@ -1,0 +1,43 @@
+C:\Documents and Settings\Administrator\Desktop\ÇokAmaçlıProgram\ÇokAmaçlıProgram\bin\Debug\ÇokAmaçlıProgram.exe
+C:\Documents and Settings\Administrator\Desktop\ÇokAmaçlıProgram\ÇokAmaçlıProgram\bin\Debug\ÇokAmaçlıProgram.pdb
+C:\Documents and Settings\Administrator\Desktop\ÇokAmaçlıProgram\ÇokAmaçlıProgram\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\ÇokAmaçlıProgram\ÇokAmaçlıProgram\obj\x86\Debug\ÇokAmaçlıProgram.KayitMenüsü.resources
+C:\Documents and Settings\Administrator\Desktop\ÇokAmaçlıProgram\ÇokAmaçlıProgram\obj\x86\Debug\ÇokAmaçlıProgram.KullaniciGirisi.resources
+C:\Documents and Settings\Administrator\Desktop\ÇokAmaçlıProgram\ÇokAmaçlıProgram\obj\x86\Debug\ÇokAmaçlıProgram.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\ÇokAmaçlıProgram\ÇokAmaçlıProgram\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\Desktop\ÇokAmaçlıProgram\ÇokAmaçlıProgram\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\Desktop\ÇokAmaçlıProgram\ÇokAmaçlıProgram\obj\x86\Debug\ÇokAmaçlıProgram.exe
+C:\Documents and Settings\Administrator\Desktop\ÇokAmaçlıProgram\ÇokAmaçlıProgram\obj\x86\Debug\ÇokAmaçlıProgram.pdb
+C:\Documents and Settings\Administrator\Desktop\ÇokAmaçlıProgram\ÇokAmaçlıProgram\obj\x86\Debug\ÇokAmaçlıProgram.Menü.resources
+C:\Documents and Settings\Administrator\Desktop\C# Programlar\Çok Amaçlı Program\ÇokAmaçlıProgram\obj\x86\Debug\ÇokAmaçlıProgram.exe
+C:\Documents and Settings\Administrator\Desktop\C# Programlar\Çok Amaçlı Program\ÇokAmaçlıProgram\obj\x86\Debug\ÇokAmaçlıProgram.pdb
+C:\Documents and Settings\Administrator\Desktop\C# Programlar\Çok Amaçlı Program\ÇokAmaçlıProgram\bin\Debug\ÇokAmaçlıProgram.exe
+C:\Documents and Settings\Administrator\Desktop\C# Programlar\Çok Amaçlı Program\ÇokAmaçlıProgram\bin\Debug\ÇokAmaçlıProgram.pdb
+C:\Documents and Settings\Administrator\Desktop\C# Programlar\Çok Amaçlı Program\ÇokAmaçlıProgram\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\C# Programlar\Çok Amaçlı Program\ÇokAmaçlıProgram\obj\x86\Debug\ÇokAmaçlıProgram.KayitMenüsü.resources
+C:\Documents and Settings\Administrator\Desktop\C# Programlar\Çok Amaçlı Program\ÇokAmaçlıProgram\obj\x86\Debug\ÇokAmaçlıProgram.KullaniciGirisi.resources
+C:\Documents and Settings\Administrator\Desktop\C# Programlar\Çok Amaçlı Program\ÇokAmaçlıProgram\obj\x86\Debug\ÇokAmaçlıProgram.Menü.resources
+C:\Documents and Settings\Administrator\Desktop\C# Programlar\Çok Amaçlı Program\ÇokAmaçlıProgram\obj\x86\Debug\ÇokAmaçlıProgram.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\C# Programlar\Çok Amaçlı Program\ÇokAmaçlıProgram\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\Desktop\C# Programlar\Çok Amaçlı Program\ÇokAmaçlıProgram\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\C# Programlar\Karne Ort. Hesaplama\Karne Ort. Hesaplama V2.0\ÇokAmaçlıProgram\obj\x86\Debug\ÇokAmaçlıProgram.exe
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\C# Programlar\Karne Ort. Hesaplama\Karne Ort. Hesaplama V2.0\ÇokAmaçlıProgram\obj\x86\Debug\ÇokAmaçlıProgram.pdb
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\C# Programlar\Karne Ort. Hesaplama\Karne Ort. Hesaplama V2.0\ÇokAmaçlıProgram\bin\Debug\ÇokAmaçlıProgram.exe
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\C# Programlar\Karne Ort. Hesaplama\Karne Ort. Hesaplama V2.0\ÇokAmaçlıProgram\bin\Debug\ÇokAmaçlıProgram.pdb
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\C# Programlar\Karne Ort. Hesaplama\Karne Ort. Hesaplama V2.0\ÇokAmaçlıProgram\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\C# Programlar\Karne Ort. Hesaplama\Karne Ort. Hesaplama V2.0\ÇokAmaçlıProgram\obj\x86\Debug\ÇokAmaçlıProgram.KayitMenüsü.resources
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\C# Programlar\Karne Ort. Hesaplama\Karne Ort. Hesaplama V2.0\ÇokAmaçlıProgram\obj\x86\Debug\ÇokAmaçlıProgram.KullaniciGirisi.resources
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\C# Programlar\Karne Ort. Hesaplama\Karne Ort. Hesaplama V2.0\ÇokAmaçlıProgram\obj\x86\Debug\ÇokAmaçlıProgram.Menü.resources
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\C# Programlar\Karne Ort. Hesaplama\Karne Ort. Hesaplama V2.0\ÇokAmaçlıProgram\obj\x86\Debug\ÇokAmaçlıProgram.Properties.Resources.resources
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\C# Programlar\Karne Ort. Hesaplama\Karne Ort. Hesaplama V2.0\ÇokAmaçlıProgram\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Mustafa\Okul Dosyaları\Veri Tabanı\C# Programlar\Karne Ort. Hesaplama\Karne Ort. Hesaplama V2.0\ÇokAmaçlıProgram\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Mustafa\Okul Dosyaları\11.Sınıf\C# Programlar\Karne Ort. Hesaplama\Karne Ort. Hesaplama V2.0\ÇokAmaçlıProgram\bin\Debug\ÇokAmaçlıProgram.exe
+E:\Mustafa\Okul Dosyaları\11.Sınıf\C# Programlar\Karne Ort. Hesaplama\Karne Ort. Hesaplama V2.0\ÇokAmaçlıProgram\obj\x86\Debug\ÇokAmaçlıProgram.KayitMenüsü.resources
+E:\Mustafa\Okul Dosyaları\11.Sınıf\C# Programlar\Karne Ort. Hesaplama\Karne Ort. Hesaplama V2.0\ÇokAmaçlıProgram\obj\x86\Debug\ÇokAmaçlıProgram.KullaniciGirisi.resources
+E:\Mustafa\Okul Dosyaları\11.Sınıf\C# Programlar\Karne Ort. Hesaplama\Karne Ort. Hesaplama V2.0\ÇokAmaçlıProgram\obj\x86\Debug\ÇokAmaçlıProgram.Menü.resources
+E:\Mustafa\Okul Dosyaları\11.Sınıf\C# Programlar\Karne Ort. Hesaplama\Karne Ort. Hesaplama V2.0\ÇokAmaçlıProgram\obj\x86\Debug\ÇokAmaçlıProgram.Properties.Resources.resources
+E:\Mustafa\Okul Dosyaları\11.Sınıf\C# Programlar\Karne Ort. Hesaplama\Karne Ort. Hesaplama V2.0\ÇokAmaçlıProgram\obj\x86\Debug\ÇokAmaçlıProgram.csproj.GenerateResource.Cache
+E:\Mustafa\Okul Dosyaları\11.Sınıf\C# Programlar\Karne Ort. Hesaplama\Karne Ort. Hesaplama V2.0\ÇokAmaçlıProgram\obj\x86\Debug\ÇokAmaçlıProgram.exe
+E:\Mustafa\Okul Dosyaları\11.Sınıf\C# Programlar\Karne Ort. Hesaplama\Karne Ort. Hesaplama V2.0\ÇokAmaçlıProgram\obj\x86\Debug\ÇokAmaçlıProgram.pdb
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\11.Sınıf\C# Programlar\Karne Ort. Hesaplama\Karne Ort. Hesaplama V2.0\ÇokAmaçlıProgram\obj\x86\Debug\ÇokAmaçlıProgram.exe
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\11.Sınıf\C# Programlar\Karne Ort. Hesaplama\Karne Ort. Hesaplama V2.0\ÇokAmaçlıProgram\obj\x86\Debug\ÇokAmaçlıProgram.pdb

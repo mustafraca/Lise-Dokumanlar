@@ -1,0 +1,15 @@
+c:\users\lab3\documents\visual studio 2010\Projects\ConsoleApplication51\ConsoleApplication51\bin\Debug\ConsoleApplication51.exe
+c:\users\lab3\documents\visual studio 2010\Projects\ConsoleApplication51\ConsoleApplication51\bin\Debug\ConsoleApplication51.pdb
+c:\users\lab3\documents\visual studio 2010\Projects\ConsoleApplication51\ConsoleApplication51\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\lab3\documents\visual studio 2010\Projects\ConsoleApplication51\ConsoleApplication51\obj\x86\Debug\ConsoleApplication51.exe
+c:\users\lab3\documents\visual studio 2010\Projects\ConsoleApplication51\ConsoleApplication51\obj\x86\Debug\ConsoleApplication51.pdb
+F:\Atölye\Programlama Temelleri\Çalışmalar\Çalışma 14\ConsoleApplication51\obj\x86\Debug\ConsoleApplication51.exe
+F:\Atölye\Programlama Temelleri\Çalışmalar\Çalışma 14\ConsoleApplication51\obj\x86\Debug\ConsoleApplication51.pdb
+G:\Programlama Temelleri\Çalışmalar\Çalışma 14\ConsoleApplication51\obj\x86\Debug\ConsoleApplication51.exe
+G:\Programlama Temelleri\Çalışmalar\Çalışma 14\ConsoleApplication51\obj\x86\Debug\ConsoleApplication51.pdb
+D:\Programlama Temelleri\Çalışmalar\Çalışma 14\ConsoleApplication51\obj\x86\Debug\ConsoleApplication51.exe
+D:\Programlama Temelleri\Çalışmalar\Çalışma 14\ConsoleApplication51\obj\x86\Debug\ConsoleApplication51.pdb
+D:\Programlama Temelleri\Çalışmalar\Switch - Case Çalışmaları\Çalışma 4\ConsoleApplication51\obj\x86\Debug\ConsoleApplication51.exe
+D:\Programlama Temelleri\Çalışmalar\Switch - Case Çalışmaları\Çalışma 4\ConsoleApplication51\obj\x86\Debug\ConsoleApplication51.pdb
+D:\Mustafa\Okul Dosyaları\Programlama Temelleri\Çalışmalar\Switch - Case Çalışmaları\Çalışma 4\ConsoleApplication51\obj\x86\Debug\ConsoleApplication51.exe
+D:\Mustafa\Okul Dosyaları\Programlama Temelleri\Çalışmalar\Switch - Case Çalışmaları\Çalışma 4\ConsoleApplication51\obj\x86\Debug\ConsoleApplication51.pdb

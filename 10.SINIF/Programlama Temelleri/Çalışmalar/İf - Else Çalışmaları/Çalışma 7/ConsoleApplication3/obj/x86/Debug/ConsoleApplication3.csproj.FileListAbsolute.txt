@@ -1,0 +1,14 @@
+C:\Users\LAB4\Documents\Visual Studio 2010\Projects\ConsoleApplication3\ConsoleApplication3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\LAB4\Documents\Visual Studio 2010\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+C:\Users\LAB4\Documents\Visual Studio 2010\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+C:\Users\LAB4\Documents\Visual Studio 2010\Projects\ConsoleApplication3\ConsoleApplication3\obj\x86\Debug\ConsoleApplication3.exe
+C:\Users\LAB4\Documents\Visual Studio 2010\Projects\ConsoleApplication3\ConsoleApplication3\obj\x86\Debug\ConsoleApplication3.pdb
+J:\ConsoleApplication3\ConsoleApplication3\obj\x86\Debug\ConsoleApplication3.exe
+J:\ConsoleApplication3\ConsoleApplication3\obj\x86\Debug\ConsoleApplication3.pdb
+J:\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+J:\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+J:\ConsoleApplication3\ConsoleApplication3\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Programlama Temelleri\Çalışmalar\Çalışma 8\ConsoleApplication3\obj\x86\Debug\ConsoleApplication3.exe
+G:\Programlama Temelleri\Çalışmalar\Çalışma 8\ConsoleApplication3\obj\x86\Debug\ConsoleApplication3.pdb
+D:\Programlama Temelleri\Çalışmalar\Çalışma 8\ConsoleApplication3\obj\x86\Debug\ConsoleApplication3.exe
+D:\Programlama Temelleri\Çalışmalar\Çalışma 8\ConsoleApplication3\obj\x86\Debug\ConsoleApplication3.pdb

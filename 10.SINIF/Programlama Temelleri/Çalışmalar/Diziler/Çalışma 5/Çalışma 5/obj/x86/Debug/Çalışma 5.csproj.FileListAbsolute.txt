@@ -1,0 +1,14 @@
+D:\Programlama Temelleri\Çalışmalar\Diziler\Çalışma 5\Çalışma 5\bin\Debug\Çalışma 5.exe
+D:\Programlama Temelleri\Çalışmalar\Diziler\Çalışma 5\Çalışma 5\bin\Debug\Çalışma 5.pdb
+D:\Programlama Temelleri\Çalışmalar\Diziler\Çalışma 5\Çalışma 5\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Programlama Temelleri\Çalışmalar\Diziler\Çalışma 5\Çalışma 5\obj\x86\Debug\Çalışma 5.exe
+D:\Programlama Temelleri\Çalışmalar\Diziler\Çalışma 5\Çalışma 5\obj\x86\Debug\Çalışma 5.pdb
+C:\Users\AcarZeynep\Desktop\Mustafa\Ders\Programlama Temelleri\Çalışmalar\Diziler\Çalışma 5\Çalışma 5\obj\x86\Debug\Çalışma 5.exe
+C:\Users\AcarZeynep\Desktop\Mustafa\Ders\Programlama Temelleri\Çalışmalar\Diziler\Çalışma 5\Çalışma 5\obj\x86\Debug\Çalışma 5.pdb
+F:\Dersler\Programlama Temelleri\Çalışmalar\Diziler\Çalışma 5\Çalışma 5\obj\x86\Debug\Çalışma 5.exe
+F:\Dersler\Programlama Temelleri\Çalışmalar\Diziler\Çalışma 5\Çalışma 5\obj\x86\Debug\Çalışma 5.pdb
+D:\Mustafa\Okul Dosyaları\Programlama Temelleri\Çalışmalar\Diziler\Çalışma 5\Çalışma 5\obj\x86\Debug\Çalışma 5.exe
+D:\Mustafa\Okul Dosyaları\Programlama Temelleri\Çalışmalar\Diziler\Çalışma 5\Çalışma 5\obj\x86\Debug\Çalışma 5.pdb
+D:\Mustafa\Okul Dosyaları\Programlama Temelleri\Çalışmalar\Diziler\Çalışma 5\Çalışma 5\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Mustafa\Okul Dosyaları\Programlama Temelleri\Çalışmalar\Diziler\Çalışma 5\Çalışma 5\bin\Debug\Çalışma 5.exe
+D:\Mustafa\Okul Dosyaları\Programlama Temelleri\Çalışmalar\Diziler\Çalışma 5\Çalışma 5\bin\Debug\Çalışma 5.pdb

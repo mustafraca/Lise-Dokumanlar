@@ -1,0 +1,19 @@
+G:\for\ConsoleApplication5\ConsoleApplication5\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\for\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+G:\for\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+G:\for\ConsoleApplication5\ConsoleApplication5\obj\x86\Debug\ConsoleApplication5.exe
+G:\for\ConsoleApplication5\ConsoleApplication5\obj\x86\Debug\ConsoleApplication5.pdb
+D:\Programlama Temelleri\Çalışmalar\Çalışma 27\ConsoleApplication5\obj\x86\Debug\ConsoleApplication5.exe
+D:\Programlama Temelleri\Çalışmalar\Çalışma 27\ConsoleApplication5\obj\x86\Debug\ConsoleApplication5.pdb
+D:\Programlama Temelleri\Çalışmalar\Çalışma 27\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+D:\Programlama Temelleri\Çalışmalar\Çalışma 27\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+D:\Programlama Temelleri\Çalışmalar\Çalışma 27\ConsoleApplication5\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\AcarZeynep\Desktop\Mustafa\Ders\Programlama Temelleri\Çalışmalar\Çalışma 27\ConsoleApplication5\obj\x86\Debug\ConsoleApplication5.exe
+C:\Users\AcarZeynep\Desktop\Mustafa\Ders\Programlama Temelleri\Çalışmalar\Çalışma 27\ConsoleApplication5\obj\x86\Debug\ConsoleApplication5.pdb
+C:\Users\AcarZeynep\Desktop\Mustafa\Ders\Programlama Temelleri\Çalışmalar\For Döngüsü\Çalışma 11\ConsoleApplication5\obj\x86\Debug\ConsoleApplication5.exe
+C:\Users\AcarZeynep\Desktop\Mustafa\Ders\Programlama Temelleri\Çalışmalar\For Döngüsü\Çalışma 11\ConsoleApplication5\obj\x86\Debug\ConsoleApplication5.pdb
+C:\Users\AcarZeynep\Desktop\Mustafa\Ders\Programlama Temelleri\Çalışmalar\For Döngüsü\Çalışma 11\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+C:\Users\AcarZeynep\Desktop\Mustafa\Ders\Programlama Temelleri\Çalışmalar\For Döngüsü\Çalışma 11\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+C:\Users\AcarZeynep\Desktop\Mustafa\Ders\Programlama Temelleri\Çalışmalar\For Döngüsü\Çalışma 11\ConsoleApplication5\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Mustafa\Okul Dosyaları\Programlama Temelleri\Çalışmalar\For Döngüsü\Çalışma 11\ConsoleApplication5\obj\x86\Debug\ConsoleApplication5.exe
+D:\Mustafa\Okul Dosyaları\Programlama Temelleri\Çalışmalar\For Döngüsü\Çalışma 11\ConsoleApplication5\obj\x86\Debug\ConsoleApplication5.pdb
